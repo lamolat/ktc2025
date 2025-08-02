@@ -3,10 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "3351e68e1a2040df528d0a6daab4e83f",
-"assets/AssetManifest.bin.json": "16fd2464053dc08f4f88d9c7569502e1",
-"assets/AssetManifest.json": "6a9b84eb787f09c887d000d38e852862",
-"assets/assets/quiz/index.txt": "08a2c9d63824d83712c99afe1f2a1f12",
+const RESOURCES = {"assets/AssetManifest.bin": "885f6932ebf7f1ee19589fa0c94da41e",
+"assets/AssetManifest.bin.json": "2791ad7f046c0b766a09b5094a072766",
+"assets/AssetManifest.json": "cc0a57151af5369c64e56dfd2a8a5332",
+"assets/assets/quiz/CanBoCongChuc_2025.json": "e5702084f5bcc967b7cc2aa5bafca62f",
+"assets/assets/quiz/index.txt": "a247857095f8a1b4add08e45063a5c26",
 "assets/assets/quiz/vanban_2025.json": "3d9f674ca5185f715c7ca457de740c68",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "ad9e7fd7b96ef194ec667b770b8a29a7",
@@ -24,7 +25,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "3351e68e1a2040df528d0a6daab4e83f
 "canvaskit/skwasm.wasm": "39dd80367a4e71582d234948adc521c0",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "flutter.js": "83d881c1dbb6d6bcd6b42e274605b69c",
-"flutter_bootstrap.js": "70d4571ab0276d91392b9240d0169a04",
+"flutter_bootstrap.js": "37603f18e191dc08aa806ab4592ce319",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
