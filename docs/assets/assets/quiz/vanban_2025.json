@@ -1,0 +1,1755 @@
+[
+  {
+    "question": "Nước Cộng hòa xã hội chủ nghĩa Việt Nam có đặc điểm gì về lãnh thổ?",
+    "options": {
+      "A": "Là một nước độc lập, thống nhất, toàn vẹn lãnh thổ, bao gồm đất liền, hải đảo, vùng biển và vùng trời",
+      "B": "Là một nước liên bang gồm nhiều quốc gia",
+      "C": "Chỉ gồm đất liền và vùng trời",
+      "D": "Chỉ bao gồm các đảo và vùng biển"},
+    "answer": "A",
+    "explanation": "Điều 1 quy định rõ về tính độc lập, thống nhất và toàn vẹn lãnh thổ của Việt Nam.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 1"},
+  {
+    "question": "Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam là nhà nước như thế nào?",
+    "options": {
+      "A": "Nhà nước quân chủ lập hiến",
+      "B": "Nhà nước pháp quyền xã hội chủ nghĩa của Nhân dân, do Nhân dân, vì Nhân dân",
+      "C": "Nhà nước liên bang",
+      "D": "Nhà nước phong kiến"},
+    "answer": "B",
+    "explanation": "Điều 2 xác định tính chất nhà nước pháp quyền xã hội chủ nghĩa do Nhân dân làm chủ.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 2"},
+  {
+    "question": "Theo Điều 2, nền tảng quyền lực nhà nước Việt Nam là gì?",
+    "options": {
+      "A": "Liên minh giữa công nhân, nông dân và trí thức",
+      "B": "Chỉ dựa vào tầng lớp doanh nhân",
+      "C": "Dựa trên quan hệ ngoại giao",
+      "D": "Dựa trên quân đội"},
+    "answer": "A",
+    "explanation": "Nền tảng là liên minh giữa giai cấp công nhân với nông dân và đội ngũ trí thức.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 2, Khoản 2"},
+  {
+    "question": "Quyền lực nhà nước ở Việt Nam được thực hiện như thế nào?",
+    "options": {
+      "A": "Tập trung duy nhất vào Quốc hội",
+      "B": "Phân công, phối hợp, kiểm soát giữa các cơ quan lập pháp, hành pháp, tư pháp",
+      "C": "Chỉ do Chính phủ quyết định",
+      "D": "Không phân chia quyền lực"},
+    "answer": "B",
+    "explanation": "Quyền lực nhà nước là thống nhất, có sự phân công, phối hợp và kiểm soát giữa các cơ quan.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 2, Khoản 3"},
+  {
+    "question": "Nhà nước bảo đảm và phát huy quyền gì của Nhân dân?",
+    "options": {
+      "A": "Quyền làm chủ của Nhân dân, quyền con người, quyền công dân",
+      "B": "Chỉ quyền tài sản",
+      "C": "Chỉ quyền tự do kinh doanh",
+      "D": "Chỉ quyền xuất nhập cảnh"},
+    "answer": "A",
+    "explanation": "Nhà nước bảo đảm quyền làm chủ, quyền con người, quyền công dân, hướng tới mục tiêu dân giàu, nước mạnh.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 3"},
+  {
+    "question": "Đảng Cộng sản Việt Nam lấy nền tảng tư tưởng nào làm cơ sở hoạt động?",
+    "options": {
+      "A": "Tư tưởng Hồ Chí Minh và Cách mạng Tháng Tám",
+      "B": "Chủ nghĩa Mác - Lê nin và tư tưởng Hồ Chí Minh",
+      "C": "Chủ nghĩa xã hội dân chủ",
+      "D": "Tư tưởng pháp quyền xã hội chủ nghĩa"},
+    "answer": "B",
+    "explanation": "Đảng lấy chủ nghĩa Mác - Lê nin và tư tưởng Hồ Chí Minh làm nền tảng tư tưởng, là lực lượng lãnh đạo Nhà nước và xã hội.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 4, Khoản 1"},
+  {
+    "question": "Đảng Cộng sản Việt Nam phải chịu trách nhiệm gì trước Nhân dân?",
+    "options": {
+      "A": "Chỉ chịu trách nhiệm trước Nhà nước",
+      "B": "Chịu sự giám sát và trách nhiệm trước Nhân dân về các quyết định của mình",
+      "C": "Không chịu trách nhiệm với ai",
+      "D": "Chỉ chịu trách nhiệm với tổ chức Đảng"},
+    "answer": "B",
+    "explanation": "Đảng gắn bó mật thiết, phục vụ và chịu sự giám sát của Nhân dân.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 4, Khoản 2"},
+  {
+    "question": "Các tổ chức và đảng viên Đảng Cộng sản Việt Nam phải hoạt động trong khuôn khổ nào?",
+    "options": {
+      "A": "Tự do hoạt động không giới hạn",
+      "B": "Chỉ trong khuôn khổ nội quy Đảng",
+      "C": "Trong khuôn khổ Hiến pháp và pháp luật",
+      "D": "Không cần tuân thủ pháp luật"},
+    "answer": "C",
+    "explanation": "Mọi tổ chức, đảng viên hoạt động trong khuôn khổ Hiến pháp và pháp luật.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 4, Khoản 3"},
+  {
+    "question": "Nước Cộng hòa xã hội chủ nghĩa Việt Nam là quốc gia như thế nào về dân tộc?",
+    "options": {
+      "A": "Chỉ của người Kinh",
+      "B": "Quốc gia thống nhất của các dân tộc cùng sinh sống",
+      "C": "Quốc gia chỉ của người Việt Nam ở trong nước",
+      "D": "Quốc gia có nhiều chủ quyền"},
+    "answer": "B",
+    "explanation": "Việt Nam là quốc gia thống nhất của các dân tộc cùng sinh sống.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 5, Khoản 1"},
+  {
+    "question": "Các dân tộc ở Việt Nam có quyền gì về ngôn ngữ, bản sắc?",
+    "options": {
+      "A": "Chỉ sử dụng tiếng Việt",
+      "B": "Có quyền dùng tiếng nói, chữ viết, giữ gìn bản sắc, phong tục truyền thống của mình",
+      "C": "Chỉ giữ gìn phong tục, không được dùng tiếng nói riêng",
+      "D": "Không có quyền riêng về văn hóa"},
+    "answer": "B",
+    "explanation": "Các dân tộc được phát huy bản sắc, sử dụng tiếng nói, chữ viết và phát triển văn hóa của mình.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 5, Khoản 3"},
+  {
+    "question": "Nhân dân thực hiện quyền lực nhà nước ở Việt Nam thông qua các hình thức nào?",
+    "options": {
+      "A": "Chỉ thông qua Quốc hội",
+      "B": "Bằng dân chủ trực tiếp, dân chủ đại diện qua Quốc hội, Hội đồng nhân dân và các cơ quan khác của Nhà nước",
+      "C": "Chỉ thông qua bầu cử Tổng thống",
+      "D": "Chỉ thông qua Thủ tướng Chính phủ"},
+    "answer": "B",
+    "explanation": "Điều 6 quy định Nhân dân thực hiện quyền lực nhà nước bằng dân chủ trực tiếp, dân chủ đại diện qua Quốc hội, Hội đồng nhân dân và các cơ quan khác.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 6"},
+  {
+    "question": "Việc bầu cử đại biểu Quốc hội và Hội đồng nhân dân được tiến hành theo nguyên tắc nào?",
+    "options": {
+      "A": "Chỉ định",
+      "B": "Phổ thông, bình đẳng, trực tiếp và bỏ phiếu kín",
+      "C": "Bầu chọn qua mạng Internet",
+      "D": "Bầu qua Hội đồng thiểu số"},
+    "answer": "B",
+    "explanation": "Điều 7 quy định bầu cử đại biểu Quốc hội và Hội đồng nhân dân theo nguyên tắc phổ thông, bình đẳng, trực tiếp và bỏ phiếu kín.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 7, Khoản 1"},
+  {
+    "question": "Đại biểu Quốc hội, đại biểu Hội đồng nhân dân có thể bị bãi nhiệm khi nào?",
+    "options": {
+      "A": "Khi hết nhiệm kỳ",
+      "B": "Khi không còn xứng đáng với sự tín nhiệm của Nhân dân hoặc bị Quốc hội/HĐND bãi nhiệm",
+      "C": "Khi vi phạm giao thông",
+      "D": "Không bao giờ bị bãi nhiệm"},
+    "answer": "B",
+    "explanation": "Đại biểu Quốc hội, HĐND bị cử tri hoặc Quốc hội, HĐND bãi nhiệm khi không còn xứng đáng với sự tín nhiệm.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 7, Khoản 2"},
+  {
+    "question": "Nhà nước Việt Nam được tổ chức và hoạt động dựa trên cơ sở nào?",
+    "options": {
+      "A": "Theo ý chí của lãnh đạo",
+      "B": "Theo Hiến pháp và pháp luật, quản lý xã hội bằng Hiến pháp và pháp luật, thực hiện nguyên tắc tập trung dân chủ",
+      "C": "Theo quyết định của Chính phủ",
+      "D": "Theo luật quốc tế"},
+    "answer": "B",
+    "explanation": "Điều 8 quy định rõ việc tổ chức, hoạt động và quản lý xã hội bằng Hiến pháp và pháp luật, thực hiện nguyên tắc tập trung dân chủ.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 8, Khoản 1"},
+  {
+    "question": "Cán bộ, công chức, viên chức Nhà nước phải có trách nhiệm gì đối với Nhân dân?",
+    "options": {
+      "A": "Không cần liên hệ với Nhân dân",
+      "B": "Phải tôn trọng, tận tụy phục vụ, liên hệ chặt chẽ, lắng nghe ý kiến và chịu giám sát của Nhân dân",
+      "C": "Chỉ cần làm việc theo ý cá nhân",
+      "D": "Không cần phục vụ Nhân dân"},
+    "answer": "B",
+    "explanation": "Các cán bộ, công chức, viên chức phải tôn trọng, phục vụ Nhân dân, liên hệ, lắng nghe và chịu sự giám sát.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 8, Khoản 2"},
+  {
+    "question": "Nhà nước Việt Nam kiên quyết đấu tranh chống lại những hành vi nào?",
+    "options": {
+      "A": "Tham nhũng, lãng phí, quan liêu, hách dịch, cửa quyền",
+      "B": "Tự do ngôn luận",
+      "C": "Phát triển văn hóa",
+      "D": "Tham gia hoạt động xã hội"},
+    "answer": "A",
+    "explanation": "Điều 8 nhấn mạnh việc kiên quyết đấu tranh chống tham nhũng, lãng phí và các biểu hiện quan liêu.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 8, Khoản 2"},
+  {
+    "question": "Mặt trận Tổ quốc Việt Nam là gì?",
+    "options": {
+      "A": "Tổ chức liên minh chính trị, liên hiệp tự nguyện của nhiều tổ chức, cá nhân tiêu biểu",
+      "B": "Tổ chức của Chính phủ",
+      "C": "Tổ chức kinh doanh",
+      "D": "Tổ chức quốc tế"},
+    "answer": "A",
+    "explanation": "Mặt trận Tổ quốc là tổ chức liên minh chính trị, liên hiệp tự nguyện của nhiều tổ chức và cá nhân tiêu biểu.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 9"},
+  {
+    "question": "Mặt trận Tổ quốc Việt Nam giữ vai trò gì trong hệ thống chính trị?",
+    "options": {
+      "A": "Là bộ phận của hệ thống chính trị do Đảng Cộng sản Việt Nam lãnh đạo",
+      "B": "Chỉ hoạt động trong lĩnh vực từ thiện",
+      "C": "Không liên quan đến chính trị",
+      "D": "Chỉ là tổ chức của người Việt Nam ở nước ngoài"},
+    "answer": "A",
+    "explanation": "Mặt trận là bộ phận của hệ thống chính trị, do Đảng Cộng sản Việt Nam lãnh đạo.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 9"},
+  {
+    "question": "Các tổ chức nào là thành viên chính trị - xã hội trực thuộc Mặt trận Tổ quốc Việt Nam?",
+    "options": {
+      "A": "Công đoàn Việt Nam, Hội Nông dân Việt Nam, Đoàn Thanh niên Cộng sản Hồ Chí Minh, Hội Liên hiệp Phụ nữ Việt Nam, Hội Cựu chiến binh Việt Nam",
+      "B": "Các doanh nghiệp lớn",
+      "C": "Chỉ Hội Liên hiệp Phụ nữ Việt Nam",
+      "D": "Chỉ Đoàn Thanh niên Cộng sản Hồ Chí Minh"},
+    "answer": "A",
+    "explanation": "Các tổ chức này là thành viên trực thuộc Mặt trận Tổ quốc Việt Nam.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 9, Điều 91"},
+  {
+    "question": "Công đoàn Việt Nam là tổ chức của ai?",
+    "options": {
+      "A": "Của giai cấp công nhân và người lao động",
+      "B": "Của doanh nhân",
+      "C": "Của học sinh sinh viên",
+      "D": "Của lãnh đạo Nhà nước"},
+    "answer": "A",
+    "explanation": "Công đoàn Việt Nam là tổ chức chính trị - xã hội của giai cấp công nhân và người lao động.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 102"},
+  {
+    "question": "Công đoàn Việt Nam có chức năng gì?",
+    "options": {
+      "A": "Đại diện, chăm lo, bảo vệ quyền và lợi ích hợp pháp, chính đáng cho đoàn viên công đoàn và người lao động",
+      "B": "Chỉ tổ chức vui chơi",
+      "C": "Chỉ đào tạo nghề",
+      "D": "Chỉ hoạt động từ thiện"},
+    "answer": "A",
+    "explanation": "Công đoàn là đại diện duy nhất của người lao động ở cấp quốc gia về các quan hệ lao động và quyền lợi.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 102"},
+  {
+    "question": "Tổ quốc Việt Nam có đặc điểm gì về chủ quyền và lãnh thổ?",
+    "options": {
+      "A": "Có thể bị xâm phạm khi cần thiết",
+      "B": "Là thiêng liêng, bất khả xâm phạm",
+      "C": "Có thể bị phân chia khi có chiến tranh",
+      "D": "Tùy thuộc vào luật quốc tế"},
+    "answer": "B",
+    "explanation": "Điều 11 quy định Tổ quốc Việt Nam là thiêng liêng, bất khả xâm phạm.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 11"},
+  {
+    "question": "Theo Hiến pháp 2025, hành vi chống lại độc lập, chủ quyền, thống nhất và toàn vẹn lãnh thổ sẽ bị xử lý như thế nào?",
+    "options": {
+      "A": "Được tha thứ nếu nhận lỗi",
+      "B": "Được pháp luật bảo vệ",
+      "C": "Bị nghiêm trị",
+      "D": "Chỉ nhắc nhở"},
+    "answer": "C",
+    "explanation": "Mọi hành vi chống lại độc lập, chủ quyền, thống nhất và toàn vẹn lãnh thổ đều bị nghiêm trị.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 11"},
+  {
+    "question": "Chính sách đối ngoại của Việt Nam là gì?",
+    "options": {
+      "A": "Chỉ hợp tác với các nước láng giềng",
+      "B": "Nhất quán đối ngoại độc lập, tự chủ, hòa bình, hữu nghị, hợp tác và phát triển",
+      "C": "Chỉ hợp tác với các nước phát triển",
+      "D": "Không hợp tác quốc tế"},
+    "answer": "B",
+    "explanation": "Việt Nam thực hiện chính sách đối ngoại độc lập, tự chủ, hòa bình, hữu nghị, hợp tác và phát triển.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 12"},
+  {
+    "question": "Nguyên tắc quan hệ quốc tế của Việt Nam là gì?",
+    "options": {
+      "A": "Không cần tôn trọng chủ quyền",
+      "B": "Tôn trọng độc lập, chủ quyền, toàn vẹn lãnh thổ, không can thiệp nội bộ, bình đẳng, cùng có lợi",
+      "C": "Chỉ tuân theo luật của Việt Nam",
+      "D": "Chỉ ưu tiên các nước ASEAN"},
+    "answer": "B",
+    "explanation": "Việt Nam chủ động hội nhập quốc tế trên cơ sở tôn trọng độc lập, chủ quyền, bình đẳng, cùng có lợi.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 12"},
+  {
+    "question": "Quốc kỳ nước Cộng hòa xã hội chủ nghĩa Việt Nam có đặc điểm gì?",
+    "options": {
+      "A": "Hình chữ nhật, nền đỏ, ở giữa có ngôi sao vàng năm cánh",
+      "B": "Hình vuông, nền xanh, ngôi sao trắng",
+      "C": "Hình tròn, nền đỏ, có bông lúa",
+      "D": "Nền trắng, có hai sọc xanh"},
+    "answer": "A",
+    "explanation": "Quốc kỳ Việt Nam là hình chữ nhật, nền đỏ, ở giữa có ngôi sao vàng năm cánh.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 13, Khoản 1"},
+  {
+    "question": "Quốc ca của Việt Nam là bài hát nào?",
+    "options": {
+      "A": "Tiến quân ca",
+      "B": "Như có Bác Hồ trong ngày vui đại thắng",
+      "C": "Diệt phát xít",
+      "D": "Dưới cờ Đảng quang vinh"},
+    "answer": "A",
+    "explanation": "Quốc ca của nước Cộng hòa xã hội chủ nghĩa Việt Nam là nhạc và lời của bài Tiến quân ca.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 13, Khoản 3"},
+  {
+    "question": "Quốc khánh của Việt Nam là ngày nào?",
+    "options": {
+      "A": "30/4/1975",
+      "B": "2/9/1945",
+      "C": "1/5/1954",
+      "D": "3/2/1930"},
+    "answer": "B",
+    "explanation": "Quốc khánh của Việt Nam là ngày 2 tháng 9 năm 1945.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 13, Khoản 4"},
+  {
+    "question": "Các quyền con người, quyền công dân tại Việt Nam được bảo đảm như thế nào?",
+    "options": {
+      "A": "Tùy ý các cơ quan Nhà nước",
+      "B": "Được công nhận, tôn trọng, bảo vệ, bảo đảm theo Hiến pháp và pháp luật",
+      "C": "Chỉ một số quyền được bảo đảm",
+      "D": "Không có quyền con người"},
+    "answer": "B",
+    "explanation": "Quyền con người, quyền công dân được bảo đảm theo Hiến pháp và pháp luật.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 14"},
+  {
+    "question": "Khi nào quyền con người, quyền công dân có thể bị hạn chế?",
+    "options": {
+      "A": "Không bao giờ bị hạn chế",
+      "B": "Chỉ bị hạn chế theo luật vì lý do quốc phòng, an ninh, trật tự, đạo đức, sức khỏe cộng đồng",
+      "C": "Khi cơ quan Nhà nước muốn",
+      "D": "Khi người dân yêu cầu"},
+    "answer": "B",
+    "explanation": "Quyền con người, quyền công dân chỉ bị hạn chế trong những trường hợp đặc biệt do luật định.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 14, Khoản 2"},
+  {
+    "question": "Quyền công dân gắn với điều gì?",
+    "options": {
+      "A": "Chỉ quyền lợi, không có nghĩa vụ",
+      "B": "Không tách rời nghĩa vụ công dân",
+      "C": "Chỉ nghĩa vụ, không có quyền",
+      "D": "Chỉ có quyền khi ở nước ngoài"},
+    "answer": "B",
+    "explanation": "Quyền công dân không tách rời nghĩa vụ công dân.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 15"},
+  {
+    "question": "Việc thực hiện quyền con người, quyền công dân phải tuân thủ nguyên tắc gì?",
+    "options": {
+      "A": "Không bị giới hạn bởi bất cứ quy định nào",
+      "B": "Không được xâm phạm lợi ích quốc gia, dân tộc, quyền và lợi ích hợp pháp của người khác",
+      "C": "Tùy ý cá nhân",
+      "D": "Chỉ cần quan tâm đến bản thân"},
+    "answer": "B",
+    "explanation": "Thực hiện quyền con người, quyền công dân không được xâm phạm lợi ích quốc gia, dân tộc và của người khác.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 16"},
+  {
+    "question": "Mọi người đều bình đẳng như thế nào trước pháp luật?",
+    "options": {
+      "A": "Chỉ người giàu bình đẳng",
+      "B": "Mọi người đều bình đẳng trước pháp luật",
+      "C": "Người có chức quyền ưu tiên hơn",
+      "D": "Không ai bình đẳng trước pháp luật"},
+    "answer": "B",
+    "explanation": "Mọi người đều bình đẳng trước pháp luật.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 16"},
+  {
+    "question": "Công dân nước Cộng hòa xã hội chủ nghĩa Việt Nam là ai?",
+    "options": {
+      "A": "Người có quốc tịch Việt Nam",
+      "B": "Người sinh ra ở Việt Nam",
+      "C": "Người sinh sống tại Việt Nam lâu dài",
+      "D": "Bất kỳ ai sinh sống ở Việt Nam"},
+    "answer": "A",
+    "explanation": "Công dân nước Cộng hòa xã hội chủ nghĩa Việt Nam là người có quốc tịch Việt Nam.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 17"},
+  {
+    "question": "Công dân Việt Nam có thể bị trục xuất hoặc giao nộp cho nhà nước khác không?",
+    "options": {
+      "A": "Có thể bị trục xuất khi vi phạm pháp luật",
+      "B": "Không thể bị trục xuất, giao nộp cho nhà nước khác",
+      "C": "Chỉ giao nộp theo yêu cầu quốc tế",
+      "D": "Chỉ khi có quyết định của Chủ tịch nước"},
+    "answer": "B",
+    "explanation": "Công dân Việt Nam không thể bị trục xuất, giao nộp cho nhà nước khác.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 17"},
+  {
+    "question": "Nhà nước Việt Nam có chính sách gì đối với người Việt Nam định cư ở nước ngoài?",
+    "options": {
+      "A": "Không quan tâm đến người Việt ở nước ngoài",
+      "B": "Khuyến khích và tạo điều kiện để người Việt Nam định cư ở nước ngoài giữ gìn và phát huy bản sắc văn hóa dân tộc, giữ quan hệ với gia đình, quê hương, góp phần xây dựng đất nước",
+      "C": "Bắt buộc họ phải trở về Việt Nam",
+      "D": "Không có chính sách cụ thể"},
+    "answer": "B",
+    "explanation": "Nhà nước khuyến khích và tạo điều kiện để người Việt Nam định cư ở nước ngoài giữ gìn bản sắc dân tộc, quan hệ với quê hương, góp phần xây dựng đất nước.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 18"},
+  {
+    "question": "Quyền sống được quy định như thế nào trong Hiến pháp Việt Nam?",
+    "options": {
+      "A": "Chỉ bảo hộ cho công dân Việt Nam",
+      "B": "Mọi người có quyền sống, tính mạng được pháp luật bảo hộ, không ai bị tước đoạt tính mạng trái luật",
+      "C": "Chỉ người giàu được bảo vệ",
+      "D": "Không được quy định"},
+    "answer": "B",
+    "explanation": "Mọi người có quyền sống, tính mạng được pháp luật bảo hộ, không ai bị tước đoạt tính mạng trái luật.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 19"},
+  {
+    "question": "Mọi người có quyền bất khả xâm phạm về thân thể không? Điều kiện gì để bị bắt giữ?",
+    "options": {
+      "A": "Ai cũng có thể bị bắt bất cứ lúc nào",
+      "B": "Không ai bị bắt nếu không có quyết định của Tòa án hoặc Viện kiểm sát, trừ phạm tội quả tang",
+      "C": "Có thể bị bắt khi cảnh sát yêu cầu",
+      "D": "Không được phép bắt giữ ai"},
+    "answer": "B",
+    "explanation": "Không ai bị bắt nếu không có quyết định của Tòa án, Viện kiểm sát, trừ phạm tội quả tang.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 20, Khoản 2"},
+  {
+    "question": "Mọi người có quyền hiến mô, bộ phận cơ thể, hiến xác và tham gia thử nghiệm y học không?",
+    "options": {
+      "A": "Chỉ người trên 18 tuổi mới được phép",
+      "B": "Có quyền hiến mô, bộ phận cơ thể, hiến xác theo luật; việc thử nghiệm y học phải có sự đồng ý",
+      "C": "Không ai được phép hiến xác",
+      "D": "Không ai được thử nghiệm y học"},
+    "answer": "B",
+    "explanation": "Mọi người có quyền hiến mô, bộ phận cơ thể, hiến xác; thử nghiệm y học phải có sự đồng ý.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 20, Khoản 3"},
+
+  {
+    "question": "Mọi người có quyền bất khả xâm phạm về đời sống riêng tư, bí mật cá nhân và gia đình không?",
+    "options": {
+      "A": "Không có quyền đó",
+      "B": "Có quyền bất khả xâm phạm về đời sống riêng tư, bí mật cá nhân và bí mật gia đình; có quyền bảo vệ danh dự, uy tín của mình",
+      "C": "Chỉ bảo vệ danh dự",
+      "D": "Chỉ bí mật gia đình"},
+    "answer": "B",
+    "explanation": "Điều 21 quy định mọi người có quyền bất khả xâm phạm về đời sống riêng tư, bí mật cá nhân và bí mật gia đình.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 21"},
+  {
+    "question": "Thông tin về đời sống riêng tư, bí mật cá nhân, bí mật gia đình được bảo đảm như thế nào?",
+    "options": {
+      "A": "Không được bảo vệ",
+      "B": "Được pháp luật bảo đảm an toàn",
+      "C": "Chỉ bảo vệ khi người dân yêu cầu",
+      "D": "Bảo vệ bởi cơ quan báo chí"},
+    "answer": "B",
+    "explanation": "Thông tin về đời sống riêng tư, bí mật cá nhân, bí mật gia đình được pháp luật bảo đảm an toàn.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 21"},
+  {
+    "question": "Công dân có quyền gì về nơi ở?",
+    "options": {
+      "A": "Không có quyền này",
+      "B": "Có quyền có nơi ở hợp pháp",
+      "C": "Chỉ được ở nơi do Nhà nước chỉ định",
+      "D": "Chỉ người giàu mới có quyền"},
+    "answer": "B",
+    "explanation": "Công dân có quyền có nơi ở hợp pháp.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 22"},
+  {
+    "question": "Việc khám xét chỗ ở của công dân do ai quy định?",
+    "options": {
+      "A": "Chính quyền địa phương tự quyết",
+      "B": "Chỉ được thực hiện theo luật định",
+      "C": "Bất kỳ ai cũng được khám xét",
+      "D": "Do công an phường quyết định"},
+    "answer": "B",
+    "explanation": "Việc khám xét chỗ ở chỉ do luật định.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 22"},
+  {
+    "question": "Công dân Việt Nam có quyền tự do đi lại và cư trú như thế nào?",
+    "options": {
+      "A": "Tùy thích ra vào mọi nơi",
+      "B": "Có quyền tự do đi lại và cư trú trong nước, có quyền ra nước ngoài và từ nước ngoài về nước theo quy định của pháp luật",
+      "C": "Chỉ được phép đi lại trong địa phương",
+      "D": "Không có quyền đi lại"},
+    "answer": "B",
+    "explanation": "Công dân có quyền tự do đi lại, cư trú trong nước, quyền ra nước ngoài và về nước theo pháp luật.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 23"},
+  {
+    "question": "Mọi người ở Việt Nam có quyền gì về tín ngưỡng, tôn giáo?",
+    "options": {
+      "A": "Chỉ theo tôn giáo do Nhà nước quy định",
+      "B": "Có quyền tự do tín ngưỡng, tôn giáo, theo hoặc không theo một tôn giáo nào; các tôn giáo bình đẳng trước pháp luật",
+      "C": "Chỉ tín ngưỡng cá nhân mới được chấp nhận",
+      "D": "Không được theo tôn giáo"},
+    "answer": "B",
+    "explanation": "Mọi người có quyền tự do tín ngưỡng, tôn giáo, theo hoặc không theo tôn giáo nào; các tôn giáo bình đẳng trước pháp luật.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 24"},
+  {
+    "question": "Công dân Việt Nam có quyền gì về tự do ngôn luận, báo chí, hội họp?",
+    "options": {
+      "A": "Không có các quyền này",
+      "B": "Có quyền tự do ngôn luận, tự do báo chí, tiếp cận thông tin, hội họp, lập hội, biểu tình theo quy định của pháp luật",
+      "C": "Chỉ có quyền hội họp",
+      "D": "Chỉ nhà báo mới được quyền tự do báo chí"},
+    "answer": "B",
+    "explanation": "Công dân có quyền tự do ngôn luận, báo chí, tiếp cận thông tin, hội họp, lập hội, biểu tình theo pháp luật.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 25"},
+  {
+    "question": "Nam, nữ ở Việt Nam có bình đẳng về mọi mặt không?",
+    "options": {
+      "A": "Chỉ bình đẳng về học vấn",
+      "B": "Nam, nữ bình đẳng về mọi mặt; Nhà nước bảo đảm quyền và cơ hội bình đẳng giới",
+      "C": "Chỉ nữ có quyền",
+      "D": "Không có bình đẳng giới"},
+    "answer": "B",
+    "explanation": "Nam, nữ bình đẳng về mọi mặt; Nhà nước bảo đảm quyền và cơ hội bình đẳng giới.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 26"},
+  {
+    "question": "Công dân bao nhiêu tuổi được bầu cử, bao nhiêu tuổi được ứng cử vào Quốc hội, Hội đồng nhân dân?",
+    "options": {
+      "A": "18 tuổi được bầu cử, 21 tuổi trở lên được ứng cử",
+      "B": "16 tuổi được bầu cử, 18 tuổi được ứng cử",
+      "C": "21 tuổi được bầu cử, 25 tuổi được ứng cử",
+      "D": "Chỉ 25 tuổi trở lên mới được quyền"},
+    "answer": "A",
+    "explanation": "Công dân đủ 18 tuổi trở lên có quyền bầu cử, đủ 21 tuổi trở lên có quyền ứng cử vào Quốc hội, HĐND.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 27"},
+  {
+    "question": "Công dân có quyền tham gia quản lý nhà nước và xã hội không?",
+    "options": {
+      "A": "Chỉ có quan chức mới có quyền",
+      "B": "Có quyền tham gia quản lý nhà nước và xã hội, thảo luận và kiến nghị với cơ quan nhà nước về các vấn đề",
+      "C": "Chỉ được tham gia khi có giấy phép",
+      "D": "Không được quyền này"},
+    "answer": "B",
+    "explanation": "Công dân có quyền tham gia quản lý nhà nước và xã hội, thảo luận và kiến nghị về các vấn đề.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 28"},
+  {
+    "question": "Công dân bao nhiêu tuổi trở lên có quyền biểu quyết khi Nhà nước tổ chức trưng cầu ý dân?",
+    "options": {
+      "A": "16 tuổi",
+      "B": "18 tuổi",
+      "C": "21 tuổi",
+      "D": "Chỉ người có chức vụ mới được"},
+    "answer": "B",
+    "explanation": "Công dân đủ 18 tuổi trở lên có quyền biểu quyết khi Nhà nước tổ chức trưng cầu ý dân.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 29"},
+  {
+    "question": "Mọi người có quyền khiếu nại, tố cáo về những việc làm trái pháp luật không?",
+    "options": {
+      "A": "Không được khiếu nại, tố cáo",
+      "B": "Có quyền khiếu nại, tố cáo với cơ quan, tổ chức, cá nhân có thẩm quyền",
+      "C": "Chỉ được khiếu nại",
+      "D": "Chỉ người giàu mới được quyền"},
+    "answer": "B",
+    "explanation": "Mọi người có quyền khiếu nại, tố cáo với cơ quan, tổ chức, cá nhân có thẩm quyền về những việc làm trái pháp luật.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 30"},
+  {
+    "question": "Người bị buộc tội được coi là có tội khi nào?",
+    "options": {
+      "A": "Ngay khi bị buộc tội",
+      "B": "Khi có bản án kết tội của Tòa án đã có hiệu lực pháp luật",
+      "C": "Khi cơ quan điều tra ra quyết định",
+      "D": "Khi người dân đồng ý"},
+    "answer": "B",
+    "explanation": "Người bị buộc tội được coi là không có tội cho đến khi có bản án kết tội có hiệu lực.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 31"},
+  {
+    "question": "Người bị bắt, tạm giữ, tạm giam có những quyền gì?",
+    "options": {
+      "A": "Không có quyền gì",
+      "B": "Có quyền tự bào chữa, nhờ luật sư hoặc người khác bào chữa",
+      "C": "Chỉ nhờ người thân bào chữa",
+      "D": "Không được bào chữa"},
+    "answer": "B",
+    "explanation": "Người bị bắt, tạm giữ, tạm giam có quyền tự bào chữa, nhờ luật sư hoặc người khác bào chữa.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 31"},
+  {
+    "question": "Mọi người có quyền sở hữu về những loại tài sản nào theo Hiến pháp?",
+    "options": {
+      "A": "Chỉ nhà ở và thu nhập hợp pháp",
+      "B": "Thu nhập hợp pháp, của cải để dành, nhà ở, tư liệu sinh hoạt, tư liệu sản xuất, phần vốn góp trong doanh nghiệp hoặc tổ chức kinh tế khác",
+      "C": "Chỉ phần vốn góp",
+      "D": "Chỉ tài sản thừa kế"},
+    "answer": "B",
+    "explanation": "Mọi người có quyền sở hữu về thu nhập hợp pháp, của cải để dành, nhà ở, tư liệu sinh hoạt, tư liệu sản xuất, phần vốn góp trong doanh nghiệp hoặc tổ chức kinh tế khác.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 32"},
+  {
+    "question": "Quyền sở hữu tư nhân và quyền thừa kế ở Việt Nam được pháp luật bảo hộ như thế nào?",
+    "options": {
+      "A": "Chỉ bảo hộ quyền sở hữu tư nhân",
+      "B": "Chỉ bảo hộ quyền thừa kế",
+      "C": "Được pháp luật bảo hộ cả hai quyền",
+      "D": "Không bảo hộ quyền sở hữu tư nhân"},
+    "answer": "C",
+    "explanation": "Quyền sở hữu tư nhân và quyền thừa kế đều được pháp luật bảo hộ.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 32"},
+  {
+    "question": "Trong trường hợp nào Nhà nước được quyền trưng mua hoặc trưng dụng tài sản?",
+    "options": {
+      "A": "Bất cứ khi nào Nhà nước muốn",
+      "B": "Khi có lý do quốc phòng, an ninh hoặc lợi ích quốc gia, tình trạng khẩn cấp, phòng, chống thiên tai",
+      "C": "Chỉ khi tài sản không còn giá trị",
+      "D": "Chỉ đối với nhà ở"},
+    "answer": "B",
+    "explanation": "Nhà nước trưng mua, trưng dụng tài sản của tổ chức, cá nhân trong trường hợp thật cần thiết, có bồi thường theo giá thị trường.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 32"},
+  {
+    "question": "Mọi người có quyền tự do kinh doanh như thế nào?",
+    "options": {
+      "A": "Tự do kinh doanh mọi ngành nghề",
+      "B": "Tự do kinh doanh trong những ngành nghề pháp luật không cấm",
+      "C": "Chỉ kinh doanh với giấy phép của Nhà nước",
+      "D": "Không được kinh doanh tự do"},
+    "answer": "B",
+    "explanation": "Mọi người có quyền tự do kinh doanh trong những ngành nghề mà pháp luật không cấm.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 33"},
+  {
+    "question": "Công dân có quyền gì về an sinh xã hội?",
+    "options": {
+      "A": "Chỉ được hỗ trợ khi mất việc",
+      "B": "Có quyền được bảo đảm an sinh xã hội",
+      "C": "Chỉ người già được bảo đảm an sinh",
+      "D": "Không có quyền an sinh xã hội"},
+    "answer": "B",
+    "explanation": "Công dân có quyền được bảo đảm an sinh xã hội.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 34"},
+  {
+    "question": "Công dân có quyền gì về lao động và việc làm?",
+    "options": {
+      "A": "Chỉ làm công việc do Nhà nước phân công",
+      "B": "Có quyền làm việc, lựa chọn nghề nghiệp, việc làm và nơi làm việc",
+      "C": "Chỉ được chọn nghề khi có giấy phép",
+      "D": "Chỉ làm việc trong khu vực Nhà nước"},
+    "answer": "B",
+    "explanation": "Công dân có quyền làm việc, lựa chọn nghề nghiệp, việc làm và nơi làm việc.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 35"},
+  {
+    "question": "Người làm công ăn lương ở Việt Nam được bảo đảm điều gì?",
+    "options": {
+      "A": "Chỉ được bảo đảm lương",
+      "B": "Được bảo đảm điều kiện làm việc công bằng, an toàn; được hưởng lương, chế độ nghỉ ngơi",
+      "C": "Chỉ được nghỉ ngơi",
+      "D": "Không được bảo đảm điều kiện làm việc"},
+    "answer": "B",
+    "explanation": "Người làm công ăn lương được bảo đảm điều kiện làm việc công bằng, an toàn; được hưởng lương, chế độ nghỉ ngơi.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 35"},
+  {
+    "question": "Những hành vi nào bị nghiêm cấm trong quan hệ lao động ở Việt Nam?",
+    "options": {
+      "A": "Phân biệt đối xử, cưỡng bức lao động, sử dụng nhân công dưới độ tuổi lao động tối thiểu",
+      "B": "Làm thêm giờ",
+      "C": "Chỉ cấm cưỡng bức lao động",
+      "D": "Không cấm hành vi nào"},
+    "answer": "A",
+    "explanation": "Nghiêm cấm phân biệt đối xử, cưỡng bức lao động, sử dụng nhân công dưới độ tuổi lao động tối thiểu.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 35"},
+  {
+    "question": "Nam, nữ ở Việt Nam có quyền gì trong hôn nhân và gia đình?",
+    "options": {
+      "A": "Chỉ nam được kết hôn",
+      "B": "Có quyền kết hôn, ly hôn; hôn nhân trên nguyên tắc tự nguyện, tiến bộ, một vợ một chồng, bình đẳng, tôn trọng lẫn nhau",
+      "C": "Chỉ kết hôn theo quyết định của cha mẹ",
+      "D": "Chỉ nữ được ly hôn"},
+    "answer": "B",
+    "explanation": "Nam, nữ có quyền kết hôn, ly hôn; hôn nhân tự nguyện, tiến bộ, một vợ một chồng, bình đẳng, tôn trọng.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 36"},
+  {
+    "question": "Nhà nước bảo hộ quyền lợi của ai trong hôn nhân và gia đình?",
+    "options": {
+      "A": "Chỉ của trẻ em",
+      "B": "Người mẹ và trẻ em",
+      "C": "Chỉ của người mẹ",
+      "D": "Của nam giới"},
+    "answer": "B",
+    "explanation": "Nhà nước bảo hộ quyền lợi của người mẹ và trẻ em.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 36"},
+  {
+    "question": "Trẻ em ở Việt Nam được bảo vệ như thế nào?",
+    "options": {
+      "A": "Chỉ được bảo vệ bởi gia đình",
+      "B": "Được Nhà nước, gia đình và xã hội bảo vệ, chăm sóc, giáo dục; được tham gia các vấn đề về trẻ em; nghiêm cấm xâm hại, hành hạ, ngược đãi, bỏ mặc, lạm dụng, bóc lột",
+      "C": "Chỉ được bảo vệ bởi xã hội",
+      "D": "Chỉ khi gặp nguy hiểm mới được bảo vệ"},
+    "answer": "B",
+    "explanation": "Trẻ em được Nhà nước, gia đình, xã hội bảo vệ, chăm sóc, giáo dục; nghiêm cấm xâm hại, ngược đãi, bóc lột.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 37"},
+  {
+    "question": "Người cao tuổi được Nhà nước, gia đình, xã hội đối xử như thế nào?",
+    "options": {
+      "A": "Không có chính sách đặc biệt",
+      "B": "Tôn trọng, chăm sóc, phát huy vai trò trong sự nghiệp xây dựng và bảo vệ Tổ quốc",
+      "C": "Chỉ chăm sóc sức khỏe",
+      "D": "Không được tham gia hoạt động xã hội"},
+    "answer": "B",
+    "explanation": "Người cao tuổi được tôn trọng, chăm sóc, phát huy vai trò trong sự nghiệp xây dựng và bảo vệ Tổ quốc.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 37"},
+  {
+    "question": "Mọi người có quyền gì về chăm sóc sức khỏe?",
+    "options": {
+      "A": "Chỉ người già có quyền",
+      "B": "Có quyền được bảo vệ, chăm sóc sức khỏe, bình đẳng trong việc sử dụng các dịch vụ y tế",
+      "C": "Chỉ trẻ em được chăm sóc",
+      "D": "Chỉ phụ nữ được bảo vệ sức khỏe"},
+    "answer": "B",
+    "explanation": "Mọi người có quyền được bảo vệ, chăm sóc sức khỏe, bình đẳng khi sử dụng các dịch vụ y tế.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 38"},
+  {
+    "question": "Công dân có quyền và nghĩa vụ gì về học tập?",
+    "options": {
+      "A": "Chỉ có quyền học tập",
+      "B": "Có quyền và nghĩa vụ học tập",
+      "C": "Chỉ có nghĩa vụ học tập",
+      "D": "Không có nghĩa vụ, quyền lợi nào"},
+    "answer": "B",
+    "explanation": "Công dân có quyền và nghĩa vụ học tập.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 39"},
+  {
+    "question": "Mọi người có quyền gì về nghiên cứu khoa học, sáng tạo văn học, nghệ thuật?",
+    "options": {
+      "A": "Chỉ nhà khoa học mới có quyền",
+      "B": "Có quyền nghiên cứu khoa học, công nghệ, sáng tạo văn học, nghệ thuật, thụ hưởng lợi ích từ các hoạt động đó",
+      "C": "Chỉ được sáng tạo văn học",
+      "D": "Chỉ được nghiên cứu nghệ thuật"},
+    "answer": "B",
+    "explanation": "Mọi người có quyền nghiên cứu khoa học, sáng tạo văn học, nghệ thuật, thụ hưởng lợi ích.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 40"},
+  {
+    "question": "Mọi người có quyền gì về hưởng thụ và tiếp cận giá trị văn hóa?",
+    "options": {
+      "A": "Chỉ người dân tộc thiểu số mới có quyền",
+      "B": "Có quyền hưởng thụ, tiếp cận giá trị văn hóa, tham gia đời sống văn hóa, sử dụng các cơ sở văn hóa",
+      "C": "Chỉ người thành phố mới có quyền",
+      "D": "Chỉ được xem phim, nghe nhạc"},
+    "answer": "B",
+    "explanation": "Mọi người có quyền hưởng thụ, tiếp cận giá trị văn hóa, tham gia đời sống văn hóa, sử dụng cơ sở văn hóa.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 41"},
+  {
+    "question": "Công dân có quyền gì về dân tộc, ngôn ngữ?",
+    "options": {
+      "A": "Chỉ được sử dụng tiếng Việt",
+      "B": "Có quyền xác định dân tộc của mình, sử dụng ngôn ngữ mẹ đẻ, lựa chọn ngôn ngữ giao tiếp",
+      "C": "Chỉ sử dụng ngôn ngữ giao tiếp phổ biến",
+      "D": "Chỉ được xác định dân tộc khi có giấy tờ"},
+    "answer": "B",
+    "explanation": "Công dân có quyền xác định dân tộc của mình, sử dụng ngôn ngữ mẹ đẻ, lựa chọn ngôn ngữ giao tiếp.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 42"},
+  {
+    "question": "Mọi người có quyền và nghĩa vụ gì về môi trường?",
+    "options": {
+      "A": "Chỉ Nhà nước bảo vệ môi trường",
+      "B": "Có quyền được sống trong môi trường trong lành và nghĩa vụ bảo vệ môi trường",
+      "C": "Chỉ doanh nghiệp có nghĩa vụ bảo vệ môi trường",
+      "D": "Không ai có nghĩa vụ bảo vệ môi trường"},
+    "answer": "B",
+    "explanation": "Mọi người có quyền được sống trong môi trường trong lành và có nghĩa vụ bảo vệ môi trường.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 43"},
+  {
+    "question": "Công dân có nghĩa vụ gì đối với Tổ quốc?",
+    "options": {
+      "A": "Chỉ phải bảo vệ gia đình",
+      "B": "Có nghĩa vụ trung thành với Tổ quốc",
+      "C": "Không có nghĩa vụ gì",
+      "D": "Chỉ người lính mới có nghĩa vụ"},
+    "answer": "B",
+    "explanation": "Công dân có nghĩa vụ trung thành với Tổ quốc. Phản bội Tổ quốc là tội nặng nhất.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 44"},
+  {
+    "question": "Bảo vệ Tổ quốc là quyền và nghĩa vụ gì của công dân?",
+    "options": {
+      "A": "Chỉ là quyền, không phải nghĩa vụ",
+      "B": "Là nghĩa vụ thiêng liêng và quyền cao quý của công dân",
+      "C": "Chỉ là nghĩa vụ của người lính",
+      "D": "Chỉ thanh niên mới phải bảo vệ Tổ quốc"},
+    "answer": "B",
+    "explanation": "Bảo vệ Tổ quốc là nghĩa vụ thiêng liêng và quyền cao quý của công dân.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 45"},
+  {
+    "question": "Công dân có nghĩa vụ gì về an ninh, trật tự xã hội?",
+    "options": {
+      "A": "Không cần tuân thủ pháp luật",
+      "B": "Có nghĩa vụ tuân theo Hiến pháp và pháp luật; tham gia bảo vệ an ninh quốc gia, trật tự, an toàn xã hội, chấp hành quy tắc sinh hoạt công cộng",
+      "C": "Chỉ phải bảo vệ nơi làm việc",
+      "D": "Chỉ người già mới có nghĩa vụ"},
+    "answer": "B",
+    "explanation": "Công dân có nghĩa vụ tuân theo Hiến pháp và pháp luật; tham gia bảo vệ an ninh, trật tự, an toàn xã hội.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 46"},
+  {
+    "question": "Mọi người có nghĩa vụ gì về thuế?",
+    "options": {
+      "A": "Không phải nộp thuế nếu không muốn",
+      "B": "Có nghĩa vụ nộp thuế theo luật định",
+      "C": "Chỉ doanh nghiệp mới phải nộp thuế",
+      "D": "Chỉ người giàu mới nộp thuế"},
+    "answer": "B",
+    "explanation": "Mọi người có nghĩa vụ nộp thuế theo luật định.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 47"},
+
+  {
+    "question": "Người nước ngoài cư trú tại Việt Nam có quyền và nghĩa vụ gì?",
+    "options": {
+      "A": "Phải tuân theo Hiến pháp và pháp luật Việt Nam, được bảo hộ tính mạng, tài sản và các quyền, lợi ích chính đáng theo pháp luật Việt Nam",
+      "B": "Chỉ được phép kinh doanh",
+      "C": "Không có quyền nào",
+      "D": "Chỉ phải tuân theo luật nước họ"},
+    "answer": "A",
+    "explanation": "Người nước ngoài cư trú ở Việt Nam phải tuân theo Hiến pháp và pháp luật Việt Nam, được bảo hộ tính mạng, tài sản và quyền, lợi ích chính đáng.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 48"},
+  {
+    "question": "Theo Hiến pháp, Nhà nước Việt Nam xem xét cho ai cư trú?",
+    "options": {
+      "A": "Bất cứ ai đến Việt Nam",
+      "B": "Người nước ngoài đấu tranh vì tự do, độc lập dân tộc, chủ nghĩa xã hội, dân chủ, hòa bình hoặc vì sự nghiệp khoa học mà bị bức hại",
+      "C": "Chỉ người có visa du lịch",
+      "D": "Chỉ người giàu"},
+    "answer": "B",
+    "explanation": "Nhà nước Việt Nam xem xét cho cư trú đối với người nước ngoài đấu tranh vì tự do, độc lập, chủ nghĩa xã hội, dân chủ, hòa bình hoặc vì sự nghiệp khoa học bị bức hại.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 49"},
+  {
+    "question": "Việt Nam xây dựng nền kinh tế như thế nào?",
+    "options": {
+      "A": "Dựa vào ngoại lực là chính",
+      "B": "Độc lập, tự chủ, phát huy nội lực, hội nhập quốc tế, gắn với phát triển văn hóa, tiến bộ và công bằng xã hội, bảo vệ môi trường, thực hiện công nghiệp hóa, hiện đại hóa đất nước",
+      "C": "Chỉ dựa vào tài nguyên thiên nhiên",
+      "D": "Không cần công bằng xã hội"},
+    "answer": "B",
+    "explanation": "Việt Nam xây dựng nền kinh tế độc lập, tự chủ, phát huy nội lực, hội nhập quốc tế, gắn với phát triển văn hóa, công bằng xã hội và bảo vệ môi trường.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 50"},
+  {
+    "question": "Đặc điểm của nền kinh tế Việt Nam theo Hiến pháp là gì?",
+    "options": {
+      "A": "Kinh tế nhà nước độc quyền",
+      "B": "Kinh tế thị trường định hướng xã hội chủ nghĩa, nhiều hình thức sở hữu, nhiều thành phần kinh tế, kinh tế nhà nước giữ vai trò chủ đạo",
+      "C": "Chỉ có kinh tế tư nhân",
+      "D": "Chỉ có một thành phần kinh tế"},
+    "answer": "B",
+    "explanation": "Kinh tế Việt Nam là kinh tế thị trường định hướng xã hội chủ nghĩa với nhiều hình thức sở hữu, nhiều thành phần, kinh tế nhà nước giữ vai trò chủ đạo.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 51"},
+  {
+    "question": "Các chủ thể thuộc các thành phần kinh tế ở Việt Nam được đối xử như thế nào?",
+    "options": {
+      "A": "Bình đẳng, hợp tác và cạnh tranh theo pháp luật",
+      "B": "Kinh tế tư nhân bị hạn chế",
+      "C": "Kinh tế nhà nước luôn ưu tiên",
+      "D": "Chỉ kinh tế hợp tác được bảo hộ"},
+    "answer": "A",
+    "explanation": "Các chủ thể thuộc các thành phần kinh tế bình đẳng, hợp tác và cạnh tranh theo pháp luật.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 51, Khoản 2"},
+  {
+    "question": "Đất đai, tài nguyên và tài sản công ở Việt Nam thuộc sở hữu nào?",
+    "options": {
+      "A": "Cá nhân",
+      "B": "Tập thể",
+      "C": "Toàn dân do Nhà nước đại diện chủ sở hữu và thống nhất quản lý",
+      "D": "Doanh nghiệp"},
+    "answer": "C",
+    "explanation": "Đất đai, tài nguyên và tài sản công thuộc sở hữu toàn dân do Nhà nước đại diện chủ sở hữu, thống nhất quản lý.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 53"},
+  {
+    "question": "Đất đai ở Việt Nam là tài nguyên như thế nào và được quản lý ra sao?",
+    "options": {
+      "A": "Tài nguyên bình thường, do cá nhân quản lý",
+      "B": "Tài nguyên đặc biệt của quốc gia, nguồn lực quan trọng phát triển đất nước, được quản lý theo pháp luật",
+      "C": "Chỉ phục vụ nông nghiệp",
+      "D": "Chỉ Nhà nước mới được sử dụng"},
+    "answer": "B",
+    "explanation": "Đất đai là tài nguyên đặc biệt của quốc gia, nguồn lực phát triển đất nước, được quản lý theo pháp luật.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 54"},
+  {
+    "question": "Trong trường hợp nào Nhà nước được thu hồi hoặc trưng dụng đất?",
+    "options": {
+      "A": "Bất cứ khi nào muốn",
+      "B": "Khi cần thiết vì quốc phòng, an ninh, phát triển kinh tế-xã hội vì lợi ích quốc gia, công cộng hoặc theo tình trạng chiến tranh, khẩn cấp, phòng chống thiên tai",
+      "C": "Chỉ khi hết hạn sử dụng đất",
+      "D": "Không bao giờ được thu hồi"},
+    "answer": "B",
+    "explanation": "Nhà nước thu hồi, trưng dụng đất trong trường hợp thật cần thiết do luật định vì các mục đích quốc phòng, an ninh, lợi ích quốc gia, công cộng hoặc khi có thiên tai.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 54"},
+  {
+    "question": "Ngân sách nhà nước và các nguồn tài chính công được quản lý như thế nào?",
+    "options": {
+      "A": "Chia đều cho các địa phương",
+      "B": "Thống nhất quản lý, sử dụng hiệu quả, công bằng, công khai, minh bạch, đúng pháp luật",
+      "C": "Chỉ Bộ Tài chính quyết định",
+      "D": "Không cần công khai"},
+    "answer": "B",
+    "explanation": "Ngân sách nhà nước, quỹ tài chính và các nguồn tài chính công phải được thống nhất quản lý, sử dụng hiệu quả, công khai, minh bạch.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 55"},
+  {
+    "question": "Đơn vị tiền tệ quốc gia của Việt Nam là gì?",
+    "options": {
+      "A": "Đô la Mỹ",
+      "B": "Đồng Việt Nam",
+      "C": "Yên Nhật",
+      "D": "Euro"},
+    "answer": "B",
+    "explanation": "Đơn vị tiền tệ quốc gia là Đồng Việt Nam.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 55"},
+  {
+    "question": "Các cá nhân, tổ chức ở Việt Nam cần thực hiện điều gì trong hoạt động kinh tế - xã hội?",
+    "options": {
+      "A": "Tiết kiệm, chống lãng phí, phòng chống tham nhũng",
+      "B": "Không cần tiết kiệm",
+      "C": "Chỉ chống lãng phí",
+      "D": "Chỉ phòng chống tham nhũng"},
+    "answer": "A",
+    "explanation": "Cơ quan, tổ chức, cá nhân phải thực hành tiết kiệm, chống lãng phí, phòng, chống tham nhũng.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 56"},
+  {
+    "question": "Nhà nước bảo vệ và khuyến khích điều gì trong lĩnh vực lao động?",
+    "options": {
+      "A": "Khuyến khích cá nhân, tổ chức tạo việc làm; bảo vệ quyền, lợi ích hợp pháp của người lao động, người sử dụng lao động; xây dựng quan hệ lao động tiến bộ, hài hòa, ổn định",
+      "B": "Chỉ quan tâm đến người lao động",
+      "C": "Không bảo vệ người sử dụng lao động",
+      "D": "Chỉ bảo vệ chủ doanh nghiệp"},
+    "answer": "A",
+    "explanation": "Nhà nước khuyến khích, bảo vệ quyền lợi người lao động, người sử dụng lao động, tạo việc làm, xây dựng quan hệ lao động tiến bộ.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 57"},
+  {
+    "question": "Nhà nước và xã hội đầu tư phát triển sự nghiệp gì cho Nhân dân?",
+    "options": {
+      "A": "Bảo vệ, chăm sóc sức khỏe Nhân dân, thực hiện bảo hiểm y tế toàn dân, chính sách ưu tiên chăm sóc sức khỏe",
+      "B": "Chỉ quan tâm đến người già",
+      "C": "Chỉ bảo vệ trẻ em",
+      "D": "Không quan tâm đến sức khỏe"},
+    "answer": "A",
+    "explanation": "Nhà nước, xã hội đầu tư phát triển sự nghiệp bảo vệ, chăm sóc sức khỏe Nhân dân, thực hiện bảo hiểm y tế toàn dân.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 58"},
+  {
+    "question": "Nhà nước, xã hội có chính sách gì đối với người có công với nước?",
+    "options": {
+      "A": "Chỉ hỗ trợ khi gặp khó khăn",
+      "B": "Tôn vinh, khen thưởng, thực hiện chính sách ưu đãi",
+      "C": "Không có chính sách nào",
+      "D": "Chỉ hỗ trợ người già"},
+    "answer": "B",
+    "explanation": "Nhà nước, xã hội tôn vinh, khen thưởng, thực hiện chính sách ưu đãi với người có công với nước.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 59"},
+  {
+    "question": "Nhà nước có chính sách gì với người cao tuổi, người khuyết tật, người nghèo?",
+    "options": {
+      "A": "Chỉ hỗ trợ người nghèo",
+      "B": "Bình đẳng cơ hội thụ hưởng phúc lợi, phát triển hệ thống an sinh xã hội, có chính sách trợ giúp",
+      "C": "Không có chính sách",
+      "D": "Chỉ ưu tiên trẻ em"},
+    "answer": "B",
+    "explanation": "Nhà nước tạo bình đẳng cơ hội, phát triển hệ thống an sinh xã hội, trợ giúp người cao tuổi, khuyết tật, nghèo, hoàn cảnh khó khăn.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 59"},
+  {
+    "question": "Nhà nước và xã hội tạo điều kiện gì về nhà ở cho người dân?",
+    "options": {
+      "A": "Không có chính sách về nhà ở",
+      "B": "Phát triển nhà ở, tạo điều kiện để mọi người có chỗ ở",
+      "C": "Chỉ xây nhà ở cho cán bộ công chức",
+      "D": "Chỉ hỗ trợ sinh viên"},
+    "answer": "B",
+    "explanation": "Nhà nước có chính sách phát triển nhà ở, tạo điều kiện để mọi người có chỗ ở.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 59"},
+  {
+    "question": "Nhà nước, xã hội và gia đình có trách nhiệm gì đối với người mẹ, trẻ em?",
+    "options": {
+      "A": "Chỉ gia đình chịu trách nhiệm",
+      "B": "Bảo vệ, chăm sóc sức khỏe người mẹ, trẻ em, thực hiện kế hoạch hóa gia đình",
+      "C": "Không có trách nhiệm nào",
+      "D": "Chỉ Nhà nước chịu trách nhiệm"},
+    "answer": "B",
+    "explanation": "Nhà nước, xã hội, gia đình bảo vệ, chăm sóc sức khỏe người mẹ, trẻ em, thực hiện kế hoạch hóa gia đình.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 59"},
+  {
+    "question": "Phát triển giáo dục, khoa học và công nghệ ở Việt Nam giữ vai trò gì?",
+    "options": {
+      "A": "Không quan trọng",
+      "B": "Là quốc sách hàng đầu",
+      "C": "Chỉ là nhiệm vụ của Bộ Giáo dục",
+      "D": "Chỉ ưu tiên cho thành phố lớn"},
+    "answer": "B",
+    "explanation": "Phát triển giáo dục, khoa học, công nghệ là quốc sách hàng đầu để nâng cao dân trí, phát triển nguồn nhân lực, bồi dưỡng nhân tài.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 61, 62"},
+  {
+    "question": "Nhà nước bảo đảm quyền gì trong lĩnh vực khoa học và công nghệ?",
+    "options": {
+      "A": "Chỉ bảo đảm cho nhà nước",
+      "B": "Bảo đảm quyền nghiên cứu khoa học, công nghệ; bảo hộ quyền sở hữu trí tuệ; tạo điều kiện để mọi người tham gia, thụ hưởng lợi ích khoa học, công nghệ",
+      "C": "Chỉ bảo đảm cho doanh nghiệp",
+      "D": "Không bảo hộ quyền sở hữu trí tuệ"},
+    "answer": "B",
+    "explanation": "Nhà nước bảo đảm quyền nghiên cứu, bảo hộ quyền sở hữu trí tuệ, tạo điều kiện để mọi người tham gia, thụ hưởng lợi ích từ khoa học, công nghệ.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 62"},
+  {
+    "question": "Nhà nước có chính sách gì về bảo vệ môi trường và sử dụng tài nguyên?",
+    "options": {
+      "A": "Không cần bảo vệ môi trường",
+      "B": "Bảo vệ môi trường; quản lý, sử dụng hiệu quả, bền vững các nguồn tài nguyên thiên nhiên; bảo tồn thiên nhiên, đa dạng sinh học",
+      "C": "Chỉ sử dụng tài nguyên thiên nhiên không kiểm soát",
+      "D": "Chỉ bảo vệ rừng"},
+    "answer": "B",
+    "explanation": "Nhà nước bảo vệ môi trường, quản lý tài nguyên hiệu quả, bảo tồn thiên nhiên, đa dạng sinh học, ứng phó với biến đổi khí hậu.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 63"},
+  {
+    "question": "Những ai phải bị xử lý khi gây ô nhiễm môi trường, suy kiệt tài nguyên?",
+    "options": {
+      "A": "Chỉ doanh nghiệp",
+      "B": "Tổ chức, cá nhân gây ô nhiễm môi trường, làm suy kiệt tài nguyên thiên nhiên, suy giảm đa dạng sinh học",
+      "C": "Chỉ cá nhân",
+      "D": "Chỉ Nhà nước"},
+    "answer": "B",
+    "explanation": "Tổ chức, cá nhân gây ô nhiễm môi trường, làm suy kiệt tài nguyên, suy giảm đa dạng sinh học phải bị xử lý nghiêm và bồi thường.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 63"},
+  {
+    "question": "Bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa là sự nghiệp của ai?",
+    "options": {
+      "A": "Chỉ của lực lượng vũ trang",
+      "B": "Là sự nghiệp của toàn dân",
+      "C": "Chỉ của cán bộ Nhà nước",
+      "D": "Chỉ của quân đội"},
+    "answer": "B",
+    "explanation": "Bảo vệ Tổ quốc là sự nghiệp của toàn dân; Nhà nước phát huy sức mạnh tổng hợp của đất nước để bảo vệ Tổ quốc.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 64"},
+  {
+    "question": "Lực lượng vũ trang nhân dân có nhiệm vụ gì?",
+    "options": {
+      "A": "Chỉ bảo vệ lãnh thổ",
+      "B": "Bảo vệ độc lập, chủ quyền, thống nhất, toàn vẹn lãnh thổ, an ninh quốc gia, trật tự, an toàn xã hội; bảo vệ Nhân dân, Đảng, Nhà nước và chế độ xã hội chủ nghĩa",
+      "C": "Chỉ tham gia cứu hộ cứu nạn",
+      "D": "Chỉ huấn luyện quân sự"},
+    "answer": "B",
+    "explanation": "Lực lượng vũ trang nhân dân bảo vệ độc lập, chủ quyền, thống nhất, an ninh quốc gia, trật tự, an toàn xã hội.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 65"},
+  {
+    "question": "Quân đội nhân dân Việt Nam được xây dựng như thế nào?",
+    "options": {
+      "A": "Tự phát",
+      "B": "Cách mạng, chính quy, tinh nhuệ, từng bước hiện đại; có lực lượng thường trực, dự bị động viên, dân quân tự vệ vững mạnh",
+      "C": "Chỉ lực lượng thường trực",
+      "D": "Chỉ quân số đông"},
+    "answer": "B",
+    "explanation": "Nhà nước xây dựng Quân đội nhân dân cách mạng, chính quy, tinh nhuệ, từng bước hiện đại, có lực lượng thường trực hợp lý, dự bị động viên, dân quân tự vệ vững mạnh.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 66"},
+  {
+    "question": "Công an nhân dân được Nhà nước xây dựng theo nguyên tắc nào?",
+    "options": {
+      "A": "Tự phát, không cần chính quy",
+      "B": "Cách mạng, chính quy, tinh nhuệ, từng bước hiện đại, làm nòng cốt bảo vệ an ninh quốc gia, trật tự, an toàn xã hội, đấu tranh phòng chống tội phạm",
+      "C": "Chỉ cần đông đảo lực lượng",
+      "D": "Chỉ hoạt động ở thành phố lớn"},
+    "answer": "B",
+    "explanation": "Công an nhân dân được xây dựng cách mạng, chính quy, tinh nhuệ, từng bước hiện đại, làm nòng cốt trong bảo vệ an ninh quốc gia, trật tự, an toàn xã hội và đấu tranh phòng, chống tội phạm.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 67"},
+  {
+    "question": "Nhà nước thực hiện chính sách gì về quốc phòng, an ninh?",
+    "options": {
+      "A": "Không cần kết hợp với kinh tế",
+      "B": "Phát huy tinh thần yêu nước, giáo dục quốc phòng và an ninh toàn dân, xây dựng công nghiệp quốc phòng, an ninh, kết hợp quốc phòng, an ninh với kinh tế, bảo đảm đời sống vật chất, tinh thần cho lực lượng vũ trang",
+      "C": "Chỉ quan tâm trang bị kỹ thuật",
+      "D": "Chỉ bảo đảm cho cán bộ lãnh đạo"},
+    "answer": "B",
+    "explanation": "Nhà nước phát huy tinh thần yêu nước, giáo dục quốc phòng, kết hợp quốc phòng, an ninh với kinh tế, bảo đảm đời sống cán bộ, chiến sĩ phù hợp tính chất hoạt động lực lượng vũ trang.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 68"},
+  {
+    "question": "Quốc hội là cơ quan gì của Nhà nước?",
+    "options": {
+      "A": "Cơ quan hành pháp",
+      "B": "Cơ quan đại biểu cao nhất của Nhân dân, cơ quan quyền lực nhà nước cao nhất",
+      "C": "Cơ quan tư pháp",
+      "D": "Cơ quan quản lý địa phương"},
+    "answer": "B",
+    "explanation": "Quốc hội là cơ quan đại biểu cao nhất của Nhân dân, cơ quan quyền lực nhà nước cao nhất.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 69"},
+  {
+    "question": "Những quyền lực lớn nào Quốc hội thực hiện?",
+    "options": {
+      "A": "Chỉ quyền lập pháp",
+      "B": "Quyền lập hiến, quyền lập pháp, quyết định các vấn đề quan trọng của đất nước, giám sát tối cao đối với hoạt động của Nhà nước",
+      "C": "Chỉ quyền bổ nhiệm cán bộ",
+      "D": "Chỉ quyền giám sát"},
+    "answer": "B",
+    "explanation": "Quốc hội thực hiện quyền lập hiến, lập pháp, quyết định vấn đề quan trọng của đất nước, giám sát tối cao hoạt động Nhà nước.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 69"},
+  {
+    "question": "Quốc hội có nhiệm vụ và quyền hạn nào sau đây?",
+    "options": {
+      "A": "Chỉ làm luật",
+      "B": "Làm Hiến pháp, sửa đổi Hiến pháp, làm luật, sửa đổi luật; giám sát tối cao việc tuân Hiến pháp, luật; quyết định mục tiêu, chính sách phát triển kinh tế-xã hội; quyết định chính sách dân tộc, tôn giáo; bầu, miễn nhiệm, bãi nhiệm nhiều chức vụ quan trọng; quyết định trưng cầu ý dân; quyết định vấn đề chiến tranh, hòa bình, đối ngoại",
+      "C": "Chỉ bầu Chủ tịch nước",
+      "D": "Chỉ quyết định ngân sách"},
+    "answer": "B",
+    "explanation": "Quốc hội có nhiệm vụ, quyền hạn rất rộng, bao gồm: làm Hiến pháp, luật, giám sát tối cao, quyết định mục tiêu phát triển, chính sách dân tộc, tôn giáo, đối ngoại, bầu và miễn nhiệm nhiều chức vụ quan trọng, quyết định chiến tranh, hòa bình, trưng cầu ý dân...",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 70, 71"},
+  {
+    "question": "Nhiệm kỳ của mỗi khóa Quốc hội là bao lâu?",
+    "options": {
+      "A": "4 năm",
+      "B": "5 năm",
+      "C": "6 năm",
+      "D": "7 năm"},
+    "answer": "B",
+    "explanation": "Nhiệm kỳ của mỗi khóa Quốc hội là 5 năm.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 71"},
+  {
+    "question": "Trong trường hợp đặc biệt, Quốc hội có thể rút ngắn hoặc kéo dài nhiệm kỳ không? Điều kiện là gì?",
+    "options": {
+      "A": "Không bao giờ được kéo dài",
+      "B": "Có thể, nếu được ít nhất 2/3 tổng số đại biểu Quốc hội biểu quyết tán thành",
+      "C": "Chỉ cần Chủ tịch Quốc hội quyết định",
+      "D": "Kéo dài không giới hạn"},
+    "answer": "B",
+    "explanation": "Trong trường hợp đặc biệt, Quốc hội quyết định rút ngắn hoặc kéo dài nhiệm kỳ theo đề nghị của Ủy ban thường vụ Quốc hội, nếu ít nhất 2/3 đại biểu Quốc hội đồng ý.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 71"},
+  {
+    "question": "Chủ tịch Quốc hội có nhiệm vụ gì?",
+    "options": {
+      "A": "Chỉ chủ tọa các phiên họp Quốc hội",
+      "B": "Chủ tọa các phiên họp, ký chứng thực Hiến pháp, luật, nghị quyết, lãnh đạo công tác Ủy ban thường vụ Quốc hội, tổ chức quan hệ đối ngoại của Quốc hội, giữ quan hệ với các đại biểu Quốc hội",
+      "C": "Chỉ ký chứng thực Hiến pháp",
+      "D": "Chỉ đại diện Quốc hội trong các buổi lễ"},
+    "answer": "B",
+    "explanation": "Chủ tịch Quốc hội chủ tọa phiên họp, ký chứng thực, lãnh đạo Ủy ban thường vụ Quốc hội, tổ chức quan hệ đối ngoại, giữ quan hệ với đại biểu.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 72"},
+  {
+    "question": "Ủy ban thường vụ Quốc hội là cơ quan gì?",
+    "options": {
+      "A": "Cơ quan giúp việc của Chủ tịch nước",
+      "B": "Cơ quan thường trực của Quốc hội",
+      "C": "Cơ quan của Chính phủ",
+      "D": "Cơ quan lập pháp độc lập"},
+    "answer": "B",
+    "explanation": "Ủy ban thường vụ Quốc hội là cơ quan thường trực của Quốc hội.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 73"},
+  {
+    "question": "Ủy ban thường vụ Quốc hội có những nhiệm vụ và quyền hạn nào?",
+    "options": {
+      "A": "Chỉ tổ chức kỳ họp",
+      "B": "Tổ chức, triệu tập, chủ trì kỳ họp Quốc hội; ra pháp lệnh; giải thích Hiến pháp, luật; giám sát thi hành Hiến pháp, luật; giám sát hoạt động các cơ quan Nhà nước; đình chỉ, bãi bỏ văn bản trái luật; chỉ đạo, điều hòa hoạt động các Ủy ban của Quốc hội; đề nghị bầu, miễn nhiệm các chức danh; giám sát Hội đồng nhân dân; quyết định chia, nhập, điều chỉnh địa giới hành chính; tuyên bố tình trạng chiến tranh khi Quốc hội không thể họp; quyết định động viên, tình trạng khẩn cấp; thực hiện đối ngoại của Quốc hội; phê chuẩn đại sứ; tổ chức trưng cầu ý dân",
+      "C": "Chỉ điều phối các đại biểu Quốc hội",
+      "D": "Chỉ giải thích luật"},
+    "answer": "B",
+    "explanation": "Ủy ban thường vụ Quốc hội có rất nhiều nhiệm vụ, quyền hạn, từ tổ chức kỳ họp, ra pháp lệnh, giải thích luật, giám sát, đình chỉ văn bản trái luật, điều hòa hoạt động các ủy ban, đề nghị bầu - miễn nhiệm chức danh, giám sát Hội đồng nhân dân, quyết định chia nhập địa giới hành chính, tình trạng chiến tranh, động viên, đối ngoại, phê chuẩn đại sứ, tổ chức trưng cầu ý dân.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 74"},
+  {
+    "question": "Hội đồng dân tộc của Quốc hội do ai bầu?",
+    "options": {
+      "A": "Chủ tịch nước",
+      "B": "Quốc hội bầu Chủ tịch Hội đồng dân tộc; Phó Chủ tịch và Ủy viên do Ủy ban thường vụ Quốc hội phê chuẩn",
+      "C": "Chính phủ",
+      "D": "Chủ tịch Quốc hội"},
+    "answer": "B",
+    "explanation": "Quốc hội bầu Chủ tịch Hội đồng dân tộc, các Phó Chủ tịch và Ủy viên do Ủy ban thường vụ Quốc hội phê chuẩn.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 75"},
+  {
+    "question": "Hội đồng dân tộc thực hiện quyền gì?",
+    "options": {
+      "A": "Chỉ nghiên cứu",
+      "B": "Nghiên cứu, kiến nghị với Quốc hội về công tác dân tộc, giám sát việc thi hành chính sách dân tộc, phát triển kinh tế-xã hội miền núi, vùng dân tộc thiểu số",
+      "C": "Chỉ làm luật",
+      "D": "Chỉ điều hành các cơ quan Nhà nước"},
+    "answer": "B",
+    "explanation": "Hội đồng dân tộc nghiên cứu, kiến nghị Quốc hội về công tác dân tộc, giám sát thi hành chính sách dân tộc, phát triển kinh tế-xã hội miền núi, vùng đồng bào dân tộc thiểu số.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 75"},
+  {
+    "question": "Ủy ban của Quốc hội có nhiệm vụ, quyền hạn gì?",
+    "options": {
+      "A": "Chỉ thẩm tra dự án luật",
+      "B": "Thẩm tra dự án luật, kiến nghị về luật, dự án khác, báo cáo do Quốc hội hoặc Ủy ban thường vụ Quốc hội giao; giám sát trong phạm vi nhiệm vụ, quyền hạn do luật định; kiến nghị các vấn đề thuộc phạm vi hoạt động",
+      "C": "Chỉ có nhiệm vụ nghiên cứu khoa học",
+      "D": "Chỉ làm nhiệm vụ giám sát"},
+    "answer": "B",
+    "explanation": "Ủy ban của Quốc hội thẩm tra dự án luật, kiến nghị về luật, thực hiện quyền giám sát và kiến nghị các vấn đề thuộc phạm vi hoạt động.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 76"},
+  {
+    "question": "Quốc hội thành lập Ủy ban lâm thời khi nào?",
+    "options": {
+      "A": "Khi có nhu cầu nghiên cứu, thẩm tra một dự án hoặc điều tra về một vấn đề nhất định",
+      "B": "Khi Chủ tịch nước yêu cầu",
+      "C": "Mỗi năm một lần",
+      "D": "Chỉ trong trường hợp khẩn cấp"},
+    "answer": "A",
+    "explanation": "Khi cần thiết, Quốc hội thành lập Ủy ban lâm thời để nghiên cứu, thẩm tra một dự án hoặc điều tra về một vấn đề nhất định.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 78"},
+  {
+    "question": "Đại biểu Quốc hội có trách nhiệm như thế nào với cử tri?",
+    "options": {
+      "A": "Không có trách nhiệm gì đặc biệt",
+      "B": "Liên hệ chặt chẽ, chịu sự giám sát, phản ánh trung thực ý kiến, nguyện vọng của cử tri với Quốc hội và các cơ quan hữu quan, thực hiện chế độ tiếp xúc và báo cáo với cử tri, trả lời yêu cầu, kiến nghị, theo dõi giải quyết khiếu nại, tố cáo",
+      "C": "Chỉ báo cáo với Quốc hội",
+      "D": "Chỉ làm việc ở Quốc hội"},
+    "answer": "B",
+    "explanation": "Đại biểu Quốc hội phải liên hệ chặt chẽ, chịu giám sát của cử tri, phản ánh ý kiến cử tri, thực hiện tiếp xúc và báo cáo, theo dõi giải quyết khiếu nại, tố cáo.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 79"},
+  {
+    "question": "Đại biểu Quốc hội có quyền chất vấn ai?",
+    "options": {
+      "A": "Chỉ Chủ tịch Quốc hội",
+      "B": "Chủ tịch nước, Chủ tịch Quốc hội, Thủ tướng Chính phủ, Bộ trưởng và các thành viên khác của Chính phủ, Chánh án Tòa án nhân dân tối cao, Viện trưởng Viện kiểm sát nhân dân tối cao, Tổng Kiểm toán nhà nước",
+      "C": "Chỉ các Bộ trưởng",
+      "D": "Chỉ Tổng Kiểm toán Nhà nước"},
+    "answer": "B",
+    "explanation": "Đại biểu Quốc hội có quyền chất vấn nhiều lãnh đạo cấp cao của Nhà nước.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 80"},
+  {
+    "question": "Trong trường hợp nào đại biểu Quốc hội không bị bắt, giam, giữ, khởi tố?",
+    "options": {
+      "A": "Khi không có sự đồng ý của Quốc hội hoặc Ủy ban thường vụ Quốc hội",
+      "B": "Bất cứ khi nào cơ quan chức năng thấy cần thiết",
+      "C": "Chỉ khi có ý kiến của Chủ tịch nước",
+      "D": "Chỉ khi phạm tội kinh tế"},
+    "answer": "A",
+    "explanation": "Không được bắt, giam, giữ, khởi tố đại biểu Quốc hội nếu không có sự đồng ý của Quốc hội hoặc Ủy ban thường vụ Quốc hội, trừ phạm tội quả tang.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 81"},
+  {
+    "question": "Đại biểu Quốc hội được tạo điều kiện gì để làm nhiệm vụ đại biểu?",
+    "options": {
+      "A": "Không được tạo điều kiện gì đặc biệt",
+      "B": "Được Ủy ban thường vụ Quốc hội, Thủ tướng Chính phủ, các bộ, các cơ quan khác tạo điều kiện; được bảo đảm kinh phí hoạt động",
+      "C": "Chỉ có quyền tham gia Hội đồng dân tộc",
+      "D": "Chỉ được hỗ trợ về tài liệu"},
+    "answer": "B",
+    "explanation": "Các cơ quan Nhà nước có trách nhiệm tạo điều kiện cho đại biểu Quốc hội làm nhiệm vụ; Nhà nước bảo đảm kinh phí hoạt động.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 82"},
+  {
+    "question": "Quốc hội họp như thế nào?",
+    "options": {
+      "A": "Chỉ họp kín",
+      "B": "Họp công khai; họp kín khi cần thiết theo đề nghị của Chủ tịch nước, Ủy ban thường vụ Quốc hội, Thủ tướng hoặc ít nhất một phần ba đại biểu",
+      "C": "Chỉ họp khi Chủ tịch nước yêu cầu",
+      "D": "Chỉ họp mỗi năm một kỳ"},
+    "answer": "B",
+    "explanation": "Quốc hội họp công khai; họp kín theo đề nghị của các cơ quan, cá nhân nêu tại Điều 83.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 83"},
+  {
+    "question": "Quốc hội họp bao nhiêu kỳ mỗi năm?",
+    "options": {
+      "A": "Một kỳ",
+      "B": "Hai kỳ",
+      "C": "Ba kỳ",
+      "D": "Không giới hạn"},
+    "answer": "B",
+    "explanation": "Quốc hội họp mỗi năm hai kỳ.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 83"},
+  {
+    "question": "Ai triệu tập kỳ họp Quốc hội bất thường?",
+    "options": {
+      "A": "Chủ tịch nước",
+      "B": "Ủy ban thường vụ Quốc hội triệu tập khi Chủ tịch nước, Ủy ban thường vụ Quốc hội, Thủ tướng Chính phủ hoặc ít nhất một phần ba tổng số đại biểu Quốc hội yêu cầu",
+      "C": "Bất cứ đại biểu nào",
+      "D": "Chỉ Thủ tướng"},
+    "answer": "B",
+    "explanation": "Ủy ban thường vụ Quốc hội triệu tập kỳ họp bất thường khi có yêu cầu của các cá nhân, cơ quan theo quy định.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 83"},
+  {
+    "question": "Kỳ họp thứ nhất của Quốc hội khóa mới được triệu tập chậm nhất là bao nhiêu ngày sau bầu cử?",
+    "options": {
+      "A": "30 ngày",
+      "B": "45 ngày",
+      "C": "60 ngày",
+      "D": "90 ngày"},
+    "answer": "C",
+    "explanation": "Kỳ họp thứ nhất của Quốc hội khóa mới được triệu tập chậm nhất là 60 ngày kể từ ngày bầu cử đại biểu Quốc hội.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 83"},
+  {
+    "question": "Những cơ quan, tổ chức nào có quyền trình dự án luật trước Quốc hội?",
+    "options": {
+      "A": "Chỉ Chính phủ",
+      "B": "Chủ tịch nước, Ủy ban thường vụ Quốc hội, Hội đồng dân tộc, Ủy ban của Quốc hội, Chính phủ, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao, Kiểm toán nhà nước, Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam và cơ quan trung ương của tổ chức chính trị - xã hội",
+      "C": "Chỉ đại biểu Quốc hội",
+      "D": "Chỉ Chủ tịch Quốc hội"},
+    "answer": "B",
+    "explanation": "Nhiều cơ quan, tổ chức có quyền trình dự án luật trước Quốc hội, không chỉ riêng Chính phủ.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 84"},
+  {
+    "question": "Để được thông qua, luật hoặc nghị quyết của Quốc hội phải có bao nhiêu đại biểu tán thành?",
+    "options": {
+      "A": "Quá nửa tổng số đại biểu Quốc hội",
+      "B": "Đủ 1/3 số đại biểu",
+      "C": "Ít nhất 90% số đại biểu",
+      "D": "Chỉ cần đa số đại biểu dự họp"},
+    "answer": "A",
+    "explanation": "Luật, nghị quyết của Quốc hội phải được quá nửa tổng số đại biểu Quốc hội biểu quyết tán thành.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 85"},
+  {
+    "question": "Chủ tịch nước là người đứng đầu Nhà nước, chịu trách nhiệm trước ai?",
+    "options": {
+      "A": "Chỉ chịu trách nhiệm trước Chính phủ",
+      "B": "Chịu trách nhiệm và báo cáo công tác trước Quốc hội",
+      "C": "Chỉ chịu trách nhiệm trước Ủy ban thường vụ Quốc hội",
+      "D": "Không chịu trách nhiệm trước ai"},
+    "answer": "B",
+    "explanation": "Chủ tịch nước chịu trách nhiệm và báo cáo công tác trước Quốc hội.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 87"},
+  {
+    "question": "Nhiệm kỳ của Chủ tịch nước kéo dài bao lâu?",
+    "options": {
+      "A": "4 năm",
+      "B": "5 năm, theo nhiệm kỳ của Quốc hội",
+      "C": "6 năm",
+      "D": "Chỉ 1 năm"},
+    "answer": "B",
+    "explanation": "Nhiệm kỳ của Chủ tịch nước theo nhiệm kỳ của Quốc hội, nhưng Chủ tịch nước tiếp tục làm nhiệm vụ cho đến khi Quốc hội khóa mới bầu ra Chủ tịch nước.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 87"},
+  {
+    "question": "Chủ tịch nước có quyền công bố Hiến pháp, luật, pháp lệnh và làm gì nếu không nhất trí với pháp lệnh vừa thông qua?",
+    "options": {
+      "A": "Không có quyền gì thêm",
+      "B": "Có thể đề nghị Ủy ban thường vụ Quốc hội xem xét lại trong 10 ngày, nếu vẫn không nhất trí thì trình Quốc hội quyết định tại kỳ họp gần nhất",
+      "C": "Chỉ ký hoặc không ký",
+      "D": "Chỉ gửi văn bản kiến nghị"},
+    "answer": "B",
+    "explanation": "Nếu không nhất trí với pháp lệnh được thông qua, Chủ tịch nước có quyền đề nghị Ủy ban thường vụ Quốc hội xem xét lại, nếu vẫn không đồng ý thì trình Quốc hội quyết định.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 88"},
+  {
+    "question": "Chủ tịch nước có quyền gì về bổ nhiệm, miễn nhiệm các chức danh quan trọng của Nhà nước?",
+    "options": {
+      "A": "Không được quyền bổ nhiệm",
+      "B": "Đề nghị Quốc hội bầu, miễn nhiệm, bãi nhiệm Phó Chủ tịch nước, Thủ tướng; bổ nhiệm, miễn nhiệm các thành viên Chính phủ, Thẩm phán Tòa án nhân dân tối cao, quyết định đặc xá, đại xá…",
+      "C": "Chỉ bổ nhiệm các bộ trưởng",
+      "D": "Chỉ miễn nhiệm Chủ tịch Quốc hội"},
+    "answer": "B",
+    "explanation": "Chủ tịch nước có quyền đề nghị Quốc hội bầu, miễn nhiệm nhiều chức danh quan trọng và căn cứ nghị quyết Quốc hội để bổ nhiệm, miễn nhiệm, quyết định đặc xá, đại xá…",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 88"},
+  {
+    "question": "Chủ tịch nước là thống lĩnh lực lượng vũ trang nhân dân và có quyền gì về quốc phòng, an ninh?",
+    "options": {
+      "A": "Chỉ lãnh đạo công an",
+      "B": "Quyết định phong, thăng, giáng, tước quân hàm cấp tướng, đô đốc; công bố tình trạng chiến tranh, động viên, khẩn cấp; bổ nhiệm Tổng tham mưu trưởng, Chủ nhiệm Tổng cục chính trị Quân đội nhân dân",
+      "C": "Chỉ ký các quyết định về quốc phòng",
+      "D": "Chỉ chỉ huy lễ duyệt binh"},
+    "answer": "B",
+    "explanation": "Chủ tịch nước thống lĩnh lực lượng vũ trang, quyết định phong hàm, công bố tình trạng chiến tranh, động viên, khẩn cấp…",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 88"},
+  {
+    "question": "Hội đồng quốc phòng và an ninh có những thành viên nào?",
+    "options": {
+      "A": "Chủ tịch nước, Phó Chủ tịch, các Ủy viên, do Chủ tịch nước trình Quốc hội phê chuẩn",
+      "B": "Chỉ Chủ tịch nước",
+      "C": "Chỉ các Bộ trưởng",
+      "D": "Chỉ các Tướng lĩnh"},
+    "answer": "A",
+    "explanation": "Hội đồng quốc phòng và an ninh gồm Chủ tịch, Phó Chủ tịch và các Ủy viên; danh sách thành viên do Chủ tịch nước trình Quốc hội phê chuẩn.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 89"},
+  {
+    "question": "Hội đồng quốc phòng và an ninh làm việc theo nguyên tắc nào?",
+    "options": {
+      "A": "Theo quyết định cá nhân Chủ tịch nước",
+      "B": "Theo chế độ tập thể và quyết định theo đa số",
+      "C": "Mỗi thành viên tự quyết định",
+      "D": "Chỉ theo ý kiến của Quốc hội"},
+    "answer": "B",
+    "explanation": "Hội đồng quốc phòng và an ninh làm việc theo chế độ tập thể và quyết định theo đa số.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 89"},
+  {
+    "question": "Hội đồng quốc phòng và an ninh có quyền trình Quốc hội quyết định vấn đề gì?",
+    "options": {
+      "A": "Chỉ các vấn đề kinh tế",
+      "B": "Quyết định tình trạng chiến tranh, trường hợp Quốc hội không thể họp thì trình Ủy ban thường vụ Quốc hội quyết định; động viên mọi lực lượng và khả năng của đất nước để bảo vệ Tổ quốc; thực hiện nhiệm vụ đặc biệt do Quốc hội giao; quyết định việc lực lượng vũ trang nhân dân tham gia hoạt động bảo vệ hòa bình quốc tế",
+      "C": "Chỉ công bố tình trạng khẩn cấp",
+      "D": "Chỉ đề nghị ân xá"},
+    "answer": "B",
+    "explanation": "Hội đồng quốc phòng và an ninh có quyền trình Quốc hội quyết định tình trạng chiến tranh, động viên lực lượng bảo vệ Tổ quốc, thực hiện nhiệm vụ đặc biệt do Quốc hội giao, quyết định việc lực lượng vũ trang nhân dân tham gia hoạt động bảo vệ hòa bình quốc tế.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 90"},
+  {
+    "question": "Chủ tịch nước có quyền gì khi tham dự các phiên họp của Ủy ban thường vụ Quốc hội và Chính phủ?",
+    "options": {
+      "A": "Chỉ tham dự không có quyền gì",
+      "B": "Có quyền yêu cầu Chính phủ họp bàn về vấn đề cần thiết để thực hiện nhiệm vụ, quyền hạn của Chủ tịch nước",
+      "C": "Chỉ dự thính",
+      "D": "Chỉ báo cáo trước Quốc hội"},
+    "answer": "B",
+    "explanation": "Chủ tịch nước có quyền tham dự các phiên họp và yêu cầu Chính phủ họp bàn về vấn đề cần thiết.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 91"},
+  {
+    "question": "Khi Chủ tịch nước không làm việc được, ai giữ quyền Chủ tịch nước?",
+    "options": {
+      "A": "Thủ tướng Chính phủ",
+      "B": "Phó Chủ tịch nước giữ quyền Chủ tịch nước cho đến khi Quốc hội bầu ra Chủ tịch nước mới",
+      "C": "Chủ tịch Quốc hội",
+      "D": "Bộ trưởng Bộ Quốc phòng"},
+    "answer": "B",
+    "explanation": "Khi Chủ tịch nước không làm việc được hoặc khuyết Chủ tịch nước, Phó Chủ tịch nước giữ quyền Chủ tịch nước cho đến khi Quốc hội bầu ra Chủ tịch nước mới.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 93"},
+  {
+    "question": "Chính phủ là cơ quan gì của Nhà nước Việt Nam?",
+    "options": {
+      "A": "Cơ quan hành pháp cao nhất, thực hiện quyền hành pháp, là cơ quan chấp hành của Quốc hội",
+      "B": "Cơ quan lập pháp cao nhất",
+      "C": "Cơ quan tư pháp",
+      "D": "Cơ quan hành chính địa phương"},
+    "answer": "A",
+    "explanation": "Chính phủ là cơ quan hành chính nhà nước cao nhất, thực hiện quyền hành pháp, là cơ quan chấp hành của Quốc hội.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 94"},
+  {
+    "question": "Cơ cấu của Chính phủ gồm những ai?",
+    "options": {
+      "A": "Chỉ có Thủ tướng và các Bộ trưởng",
+      "B": "Thủ tướng Chính phủ, các Phó Thủ tướng, các Bộ trưởng và Thủ trưởng cơ quan ngang bộ",
+      "C": "Chỉ có Thủ tướng và Chủ tịch nước",
+      "D": "Chỉ các Phó Thủ tướng"},
+    "answer": "B",
+    "explanation": "Chính phủ gồm Thủ tướng, các Phó Thủ tướng, các Bộ trưởng và Thủ trưởng cơ quan ngang bộ.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 95"},
+  {
+    "question": "Chính phủ làm việc theo chế độ nào?",
+    "options": {
+      "A": "Cá nhân quyết định",
+      "B": "Tập thể, quyết định theo đa số",
+      "C": "Chỉ cần Thủ tướng quyết định",
+      "D": "Các Bộ trưởng tự quyết định"},
+    "answer": "B",
+    "explanation": "Chính phủ làm việc theo chế độ tập thể và quyết định theo đa số.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 96"},
+  {
+    "question": "Chính phủ có nhiệm vụ, quyền hạn gì nổi bật?",
+    "options": {
+      "A": "Chỉ điều hành kinh tế",
+      "B": "Tổ chức thi hành Hiến pháp, luật, nghị quyết của Quốc hội; thống nhất quản lý kinh tế, văn hóa, xã hội, giáo dục, y tế, quốc phòng, an ninh quốc gia; trình dự án luật, ngân sách nhà nước, quyết định các dự án lớn, thực hiện quản lý cán bộ công chức, phòng chống tham nhũng, chỉ đạo các bộ ngành và địa phương",
+      "C": "Chỉ chỉ đạo các Bộ trưởng",
+      "D": "Chỉ quyết định ngân sách"},
+    "answer": "B",
+    "explanation": "Chính phủ có nhiệm vụ tổ chức thi hành Hiến pháp, luật, nghị quyết của Quốc hội; thống nhất quản lý kinh tế, văn hóa, xã hội, giáo dục, y tế, quốc phòng, an ninh quốc gia; trình dự án luật, ngân sách nhà nước; thực hiện quản lý cán bộ, công chức, phòng chống tham nhũng, chỉ đạo các bộ ngành và địa phương.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 96"},
+  {
+    "question": "Nhiệm kỳ của Chính phủ được xác định như thế nào?",
+    "options": {
+      "A": "4 năm",
+      "B": "5 năm, theo nhiệm kỳ của Quốc hội, nhưng tiếp tục làm nhiệm vụ cho đến khi Quốc hội khóa mới thành lập Chính phủ mới",
+      "C": "7 năm",
+      "D": "Không giới hạn nhiệm kỳ"},
+    "answer": "B",
+    "explanation": "Nhiệm kỳ của Chính phủ theo nhiệm kỳ của Quốc hội; khi Quốc hội hết nhiệm kỳ, Chính phủ tiếp tục làm nhiệm vụ cho đến khi Quốc hội khóa mới thành lập Chính phủ.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 97"},
+  {
+    "question": "Thủ tướng Chính phủ do ai bầu, và từ đâu?",
+    "options": {
+      "A": "Chủ tịch nước chỉ định",
+      "B": "Quốc hội bầu trong số đại biểu Quốc hội",
+      "C": "Được các Bộ trưởng bầu",
+      "D": "Ủy ban thường vụ Quốc hội chỉ định"},
+    "answer": "B",
+    "explanation": "Thủ tướng Chính phủ do Quốc hội bầu trong số đại biểu Quốc hội.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 98"},
+  {
+    "question": "Bộ trưởng, Thủ trưởng cơ quan ngang bộ chịu trách nhiệm thế nào?",
+    "options": {
+      "A": "Chỉ chịu trách nhiệm trước Chính phủ",
+      "B": "Chịu trách nhiệm cá nhân trước Thủ tướng Chính phủ, Chính phủ và Quốc hội về ngành, lĩnh vực được phân công, cùng các thành viên khác chịu trách nhiệm tập thể về hoạt động của Chính phủ",
+      "C": "Chỉ chịu trách nhiệm trước Quốc hội",
+      "D": "Chỉ cá nhân chịu trách nhiệm"},
+    "answer": "B",
+    "explanation": "Bộ trưởng, Thủ trưởng cơ quan ngang bộ chịu trách nhiệm cá nhân trước Thủ tướng, Chính phủ và Quốc hội về ngành, lĩnh vực được phân công, cùng các thành viên khác chịu trách nhiệm tập thể về hoạt động của Chính phủ.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 99"},
+  {
+    "question": "Ai có quyền ban hành văn bản pháp luật để thực hiện nhiệm vụ, quyền hạn của mình trong Chính phủ?",
+    "options": {
+      "A": "Chỉ Thủ tướng Chính phủ",
+      "B": "Chính phủ, Thủ tướng Chính phủ, Bộ trưởng, Thủ trưởng cơ quan ngang bộ",
+      "C": "Chỉ các Bộ trưởng",
+      "D": "Chỉ Quốc hội"},
+    "answer": "B",
+    "explanation": "Chính phủ, Thủ tướng Chính phủ, Bộ trưởng, Thủ trưởng cơ quan ngang bộ ban hành văn bản pháp luật để thực hiện nhiệm vụ, quyền hạn của mình.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 100"},
+  {
+    "question": "Chủ tịch Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam và người đứng đầu cơ quan trung ương tổ chức chính trị - xã hội có thể tham dự phiên họp nào?",
+    "options": {
+      "A": "Chỉ họp Quốc hội",
+      "B": "Được mời tham dự phiên họp của Chính phủ khi bàn các vấn đề có liên quan",
+      "C": "Không được mời tham dự bất kỳ phiên họp nào",
+      "D": "Chỉ được dự họp với Chủ tịch nước"},
+    "answer": "B",
+    "explanation": "Chủ tịch Ủy ban Trung ương Mặt trận Tổ quốc và người đứng đầu cơ quan trung ương tổ chức chính trị - xã hội được mời dự phiên họp của Chính phủ khi bàn vấn đề liên quan.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 101"},
+  {
+    "question": "Tòa án nhân dân là gì?",
+    "options": {
+      "A": "Cơ quan hành pháp",
+      "B": "Cơ quan xét xử, thực hiện quyền tư pháp của nước Cộng hòa xã hội chủ nghĩa Việt Nam",
+      "C": "Cơ quan lập pháp",
+      "D": "Cơ quan hành chính địa phương"},
+    "answer": "B",
+    "explanation": "Tòa án nhân dân là cơ quan xét xử, thực hiện quyền tư pháp của nước Cộng hòa xã hội chủ nghĩa Việt Nam.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 102"},
+  {
+    "question": "Tòa án nhân dân bao gồm những loại nào?",
+    "options": {
+      "A": "Chỉ Tòa án nhân dân tối cao",
+      "B": "Tòa án nhân dân tối cao và các Tòa án khác do luật định",
+      "C": "Chỉ các Tòa án quân sự",
+      "D": "Chỉ các Tòa án địa phương"},
+    "answer": "B",
+    "explanation": "Tòa án nhân dân gồm Tòa án nhân dân tối cao và các Tòa án khác do luật định.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 102"},
+  {
+    "question": "Tòa án nhân dân có nhiệm vụ gì?",
+    "options": {
+      "A": "Chỉ bảo vệ quyền lợi của Nhà nước",
+      "B": "Bảo vệ công lý, quyền con người, quyền công dân, chế độ xã hội chủ nghĩa, lợi ích của Nhà nước, quyền và lợi ích hợp pháp của tổ chức, cá nhân",
+      "C": "Chỉ bảo vệ chế độ xã hội chủ nghĩa",
+      "D": "Chỉ bảo vệ quyền con người"},
+    "answer": "B",
+    "explanation": "Tòa án nhân dân bảo vệ công lý, quyền con người, quyền công dân, chế độ xã hội chủ nghĩa, lợi ích Nhà nước, quyền và lợi ích hợp pháp của tổ chức, cá nhân.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 102"},
+  {
+    "question": "Khi xét xử sơ thẩm, Tòa án nhân dân phải có thành phần nào tham gia?",
+    "options": {
+      "A": "Chỉ có Thẩm phán",
+      "B": "Có Hội thẩm tham gia, trừ trường hợp xét xử theo thủ tục rút gọn",
+      "C": "Chỉ có Thẩm phán và Luật sư",
+      "D": "Chỉ có Hội thẩm"},
+    "answer": "B",
+    "explanation": "Việc xét xử sơ thẩm của Tòa án nhân dân có Hội thẩm tham gia, trừ trường hợp xét xử theo thủ tục rút gọn.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 103"},
+  {
+    "question": "Tòa án nhân dân tối cao có vai trò gì?",
+    "options": {
+      "A": "Là cơ quan hành chính",
+      "B": "Là cơ quan xét xử cao nhất của nước Cộng hòa xã hội chủ nghĩa Việt Nam",
+      "C": "Chỉ giải thích pháp luật",
+      "D": "Chỉ xét xử phúc thẩm"},
+    "answer": "B",
+    "explanation": "Tòa án nhân dân tối cao là cơ quan xét xử cao nhất của nước Cộng hòa xã hội chủ nghĩa Việt Nam, giám đốc việc xét xử các Tòa án khác và bảo đảm áp dụng thống nhất pháp luật.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 104"},
+  {
+    "question": "Nhiệm kỳ của Chánh án Tòa án nhân dân tối cao được xác định như thế nào?",
+    "options": {
+      "A": "Không giới hạn nhiệm kỳ",
+      "B": "Theo nhiệm kỳ của Quốc hội, việc bổ nhiệm, miễn nhiệm, cách chức và nhiệm kỳ của Chánh án các Tòa án khác do luật định",
+      "C": "Chỉ do Chủ tịch nước quyết định",
+      "D": "5 năm một lần"},
+    "answer": "B",
+    "explanation": "Nhiệm kỳ của Chánh án Tòa án nhân dân tối cao theo nhiệm kỳ của Quốc hội; các Tòa án khác do luật định.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 105"},
+  {
+    "question": "Bản án, quyết định của Tòa án nhân dân có hiệu lực pháp luật phải được ai tôn trọng và chấp hành?",
+    "options": {
+      "A": "Chỉ tổ chức Nhà nước",
+      "B": "Cơ quan, tổ chức, cá nhân hữu quan phải nghiêm chỉnh chấp hành",
+      "C": "Chỉ cá nhân liên quan",
+      "D": "Chỉ Hội thẩm"},
+    "answer": "B",
+    "explanation": "Bản án, quyết định có hiệu lực pháp luật phải được tôn trọng và chấp hành nghiêm chỉnh.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 106"},
+  {
+    "question": "Viện kiểm sát nhân dân thực hiện quyền gì?",
+    "options": {
+      "A": "Chỉ kiểm sát án dân sự",
+      "B": "Thực hành quyền công tố, kiểm sát hoạt động tư pháp",
+      "C": "Chỉ xét xử",
+      "D": "Chỉ thực hiện quyền tố tụng hành chính"},
+    "answer": "B",
+    "explanation": "Viện kiểm sát nhân dân thực hành quyền công tố, kiểm sát hoạt động tư pháp.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 107"},
+  {
+    "question": "Viện kiểm sát nhân dân có nhiệm vụ gì?",
+    "options": {
+      "A": "Chỉ bảo vệ pháp luật",
+      "B": "Bảo vệ pháp luật, quyền con người, quyền công dân, bảo vệ chế độ xã hội chủ nghĩa, lợi ích Nhà nước, quyền và lợi ích hợp pháp của tổ chức, cá nhân",
+      "C": "Chỉ bảo vệ quyền cá nhân",
+      "D": "Chỉ giám sát cơ quan Nhà nước"},
+    "answer": "B",
+    "explanation": "Viện kiểm sát nhân dân bảo vệ pháp luật, quyền con người, chế độ xã hội chủ nghĩa, lợi ích Nhà nước, quyền hợp pháp của tổ chức, cá nhân.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 107"},
+  {
+    "question": "Nhiệm kỳ của Viện trưởng Viện kiểm sát nhân dân tối cao được xác định như thế nào?",
+    "options": {
+      "A": "Theo nhiệm kỳ của Quốc hội",
+      "B": "Không giới hạn nhiệm kỳ",
+      "C": "Chỉ do Chủ tịch nước quyết định",
+      "D": "7 năm"},
+    "answer": "A",
+    "explanation": "Nhiệm kỳ của Viện trưởng Viện kiểm sát nhân dân tối cao theo nhiệm kỳ của Quốc hội.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 108"},
+  {
+    "question": "Viện trưởng Viện kiểm sát nhân dân các cấp chịu sự lãnh đạo thống nhất của ai?",
+    "options": {
+      "A": "Chỉ Quốc hội",
+      "B": "Viện trưởng Viện kiểm sát nhân dân tối cao",
+      "C": "Chủ tịch nước",
+      "D": "Chánh án Tòa án nhân dân tối cao"},
+    "answer": "B",
+    "explanation": "Viện trưởng Viện kiểm sát nhân dân các cấp chịu sự lãnh đạo thống nhất của Viện trưởng Viện kiểm sát nhân dân tối cao.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 109"},
+  {
+    "question": "Các đơn vị hành chính của Việt Nam được tổ chức như thế nào?",
+    "options": {
+      "A": "Một cấp duy nhất là tỉnh",
+      "B": "Hai cấp: tỉnh, thành phố trực thuộc trung ương và các đơn vị hành chính dưới tỉnh, thành phố trực thuộc trung ương do luật định",
+      "C": "Chỉ có cấp huyện",
+      "D": "Ba cấp: tỉnh, huyện, xã"},
+    "answer": "B",
+    "explanation": "Các đơn vị hành chính được tổ chức hai cấp: tỉnh, thành phố trực thuộc trung ương và các đơn vị hành chính dưới tỉnh/thành phố do luật định.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 110"},
+  {
+    "question": "Việc thành lập, giải thể, nhập, chia, điều chỉnh địa giới đơn vị hành chính phải tuân theo nguyên tắc nào?",
+    "options": {
+      "A": "Chỉ do Chính phủ quyết định",
+      "B": "Phải lấy ý kiến Nhân dân địa phương và theo trình tự, thủ tục do Quốc hội quy định",
+      "C": "Chỉ do Chủ tịch nước quyết định",
+      "D": "Chỉ theo quyết định của địa phương"},
+    "answer": "B",
+    "explanation": "Việc thành lập, giải thể, nhập, chia, điều chỉnh địa giới đơn vị hành chính phải lấy ý kiến Nhân dân địa phương và theo trình tự, thủ tục do Quốc hội quy định.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 111"},
+  {
+    "question": "Chính quyền địa phương gồm những cơ quan nào?",
+    "options": {
+      "A": "Chỉ có Hội đồng nhân dân",
+      "B": "Hội đồng nhân dân và Ủy ban nhân dân được tổ chức ở đơn vị hành chính phù hợp với đặc điểm nông thôn, đô thị, hải đảo do Quốc hội quy định",
+      "C": "Chỉ có Ủy ban nhân dân",
+      "D": "Chỉ có cấp tỉnh"},
+    "answer": "B",
+    "explanation": "Chính quyền địa phương gồm Hội đồng nhân dân và Ủy ban nhân dân, được tổ chức ở đơn vị hành chính phù hợp với đặc điểm từng địa phương.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 111"},
+  {
+    "question": "Hội đồng nhân dân có vai trò gì ở địa phương?",
+    "options": {
+      "A": "Chỉ là cơ quan tư vấn",
+      "B": "Là cơ quan quyền lực nhà nước ở địa phương, đại diện ý chí, nguyện vọng và quyền làm chủ của Nhân dân, chịu trách nhiệm trước Nhân dân địa phương và cơ quan nhà nước cấp trên",
+      "C": "Chỉ đại diện cho cơ quan nhà nước cấp trên",
+      "D": "Chỉ là cơ quan bổ trợ cho Ủy ban nhân dân"},
+    "answer": "B",
+    "explanation": "Hội đồng nhân dân là cơ quan quyền lực nhà nước ở địa phương, đại diện ý chí, nguyện vọng, quyền làm chủ của Nhân dân.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 113"},
+  {
+    "question": "Ủy ban nhân dân ở cấp chính quyền địa phương do ai bầu?",
+    "options": {
+      "A": "Chính phủ bổ nhiệm",
+      "B": "Hội đồng nhân dân cùng cấp bầu",
+      "C": "Chủ tịch nước chỉ định",
+      "D": "Quốc hội bầu"},
+    "answer": "B",
+    "explanation": "Ủy ban nhân dân ở cấp chính quyền địa phương do Hội đồng nhân dân cùng cấp bầu.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 114"},
+  {
+    "question": "Đại biểu Hội đồng nhân dân có những quyền và nghĩa vụ nổi bật nào?",
+    "options": {
+      "A": "Chỉ được tham dự kỳ họp",
+      "B": "Đại diện cho ý chí, nguyện vọng của Nhân dân địa phương; liên hệ, chịu giám sát của cử tri; chất vấn Chủ tịch Ủy ban nhân dân, các thành viên khác của Ủy ban nhân dân, Chánh án Tòa án nhân dân, Viện trưởng Viện kiểm sát nhân dân, Thủ trưởng cơ quan thuộc Ủy ban nhân dân; quyền kiến nghị với các cơ quan, tổ chức địa phương",
+      "C": "Chỉ có quyền báo cáo với cấp trên",
+      "D": "Chỉ vận động nhân dân"},
+    "answer": "B",
+    "explanation": "Đại biểu HĐND đại diện ý chí, nguyện vọng Nhân dân, chịu giám sát của cử tri, có quyền chất vấn và kiến nghị với các cơ quan tại địa phương.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 115"},
+  {
+    "question": "Mặt trận Tổ quốc Việt Nam ở địa phương có quyền gì trong chính quyền địa phương?",
+    "options": {
+      "A": "Không có quyền gì",
+      "B": "Được mời tham dự kỳ họp Hội đồng nhân dân và hội nghị Ủy ban nhân dân cùng cấp khi bàn các vấn đề có liên quan",
+      "C": "Chỉ tham gia các sự kiện văn hóa",
+      "D": "Chỉ báo cáo ý kiến nhân dân"},
+    "answer": "B",
+    "explanation": "Chủ tịch Ủy ban Mặt trận Tổ quốc Việt Nam và người đứng đầu tổ chức chính trị - xã hội ở địa phương được mời dự các kỳ họp HĐND, hội nghị UBND cùng cấp khi bàn các vấn đề liên quan.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 116"},
+  {
+    "question": "Hội đồng bầu cử quốc gia có chức năng gì?",
+    "options": {
+      "A": "Chỉ tổ chức bầu cử đại biểu Quốc hội",
+      "B": "Tổ chức bầu cử đại biểu Quốc hội; chỉ đạo, hướng dẫn công tác bầu cử đại biểu Hội đồng nhân dân các cấp",
+      "C": "Chỉ kiểm tra kết quả bầu cử",
+      "D": "Chỉ là cơ quan tư vấn"},
+    "answer": "B",
+    "explanation": "Hội đồng bầu cử quốc gia tổ chức bầu cử đại biểu Quốc hội, chỉ đạo và hướng dẫn bầu cử đại biểu Hội đồng nhân dân các cấp.",
+    "source": "Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, Điều 117"},
+  {
+    "question": "Kiểm toán nhà nước là cơ quan do ai thành lập và thực hiện chức năng gì?",
+    "options": {
+      "A": "Chính phủ thành lập, kiểm toán tư nhân",
+      "B": "Quốc hội thành lập, hoạt động độc lập, kiểm toán việc quản lý, sử dụng tài chính, tài sản công",
+      "C": "Bộ Tài chính thành lập, kiểm toán tài sản tư nhân",
+      "D": "Chính phủ bổ nhiệm, chỉ kiểm toán doanh nghiệp nhà nước"},
+    "answer": "B",
+    "explanation": "Kiểm toán nhà nước do Quốc hội thành lập, hoạt động độc lập và chỉ tuân theo pháp luật, thực hiện kiểm toán tài chính, tài sản công.",
+    "source": "Hiến pháp 2025, Điều 118, Khoản 1"},
+  {
+    "question": "Tổng Kiểm toán nhà nước do ai bầu, có nhiệm vụ gì và nhiệm kỳ theo ai quy định?",
+    "options": {
+      "A": "Chính phủ bổ nhiệm, không chịu trách nhiệm trước ai",
+      "B": "Quốc hội bầu, chịu trách nhiệm và báo cáo công tác trước Quốc hội, nhiệm kỳ do luật định",
+      "C": "Chủ tịch nước chỉ định, nhiệm kỳ do Chính phủ quy định",
+      "D": "Bộ trưởng Tài chính đề xuất, Quốc hội phê chuẩn"},
+    "answer": "B",
+    "explanation": "Tổng Kiểm toán nhà nước do Quốc hội bầu, nhiệm kỳ theo luật định, chịu trách nhiệm và báo cáo trước Quốc hội hoặc UBTVQH khi Quốc hội không họp.",
+    "source": "Hiến pháp 2025, Điều 118, Khoản 2"},
+  {
+    "question": "Tổ chức, nhiệm vụ, quyền hạn cụ thể của Kiểm toán nhà nước do ai quy định?",
+    "options": {
+      "A": "Chủ tịch nước quy định",
+      "B": "Chính phủ quyết định",
+      "C": "Do luật định",
+      "D": "Tổng Kiểm toán tự quyết"},
+    "answer": "C",
+    "explanation": "Tổ chức, nhiệm vụ, quyền hạn cụ thể của Kiểm toán nhà nước do luật định.",
+    "source": "Hiến pháp 2025, Điều 118, Khoản 3"},
+  {
+    "question": "Hiến pháp có hiệu lực pháp lý như thế nào?",
+    "options": {
+      "A": "Như các luật khác",
+      "B": "Là luật cơ bản, có hiệu lực pháp lý cao nhất",
+      "C": "Chỉ có hiệu lực trong lĩnh vực dân sự",
+      "D": "Chỉ hiệu lực đối với các cơ quan hành pháp"},
+    "answer": "B",
+    "explanation": "Hiến pháp là luật cơ bản, có hiệu lực pháp lý cao nhất.",
+    "source": "Hiến pháp 2025, Điều 119, Khoản 1"},
+  {
+    "question": "Các văn bản pháp luật phải tuân theo nguyên tắc nào với Hiến pháp?",
+    "options": {
+      "A": "Có thể trái Hiến pháp",
+      "B": "Phải phù hợp với Hiến pháp",
+      "C": "Chỉ phù hợp khi được Quốc hội đồng ý",
+      "D": "Chỉ cần phù hợp với luật chuyên ngành"},
+    "answer": "B",
+    "explanation": "Mọi văn bản pháp luật khác phải phù hợp với Hiến pháp.",
+    "source": "Hiến pháp 2025, Điều 119, Khoản 1"},
+  {
+    "question": "Ai chịu trách nhiệm bảo vệ Hiến pháp?",
+    "options": {
+      "A": "Chỉ Quốc hội",
+      "B": "Chỉ Chính phủ",
+      "C": "Quốc hội, các cơ quan của Quốc hội, Chủ tịch nước, Chính phủ, Tòa án nhân dân, Viện kiểm sát nhân dân, các cơ quan khác của Nhà nước và toàn thể Nhân dân",
+      "D": "Chỉ các cơ quan tư pháp"},
+    "answer": "C",
+    "explanation": "Tất cả các cơ quan Nhà nước và toàn thể Nhân dân đều có trách nhiệm bảo vệ Hiến pháp.",
+    "source": "Hiến pháp 2025, Điều 119, Khoản 2"},
+  {
+    "question": "Ai có quyền đề nghị làm Hiến pháp hoặc sửa đổi Hiến pháp?",
+    "options": {
+      "A": "Chỉ Chủ tịch nước",
+      "B": "Chủ tịch nước, Ủy ban thường vụ Quốc hội, Chính phủ hoặc ít nhất 1/3 tổng số đại biểu Quốc hội",
+      "C": "Chỉ Quốc hội",
+      "D": "Chỉ Chính phủ"},
+    "answer": "B",
+    "explanation": "Chủ tịch nước, UBTVQH, Chính phủ hoặc ít nhất 1/3 tổng số đại biểu Quốc hội có quyền đề nghị làm Hiến pháp, sửa đổi Hiến pháp.",
+    "source": "Hiến pháp 2025, Điều 120, Khoản 1"},
+  {
+    "question": "Điều kiện để Quốc hội quyết định làm hoặc sửa đổi Hiến pháp là gì?",
+    "options": {
+      "A": "Chỉ cần đa số đại biểu đồng ý",
+      "B": "Có ít nhất 2/3 tổng số đại biểu Quốc hội biểu quyết tán thành",
+      "C": "Chỉ cần Chủ tịch Quốc hội đồng ý",
+      "D": "Chỉ cần Chính phủ đồng ý"},
+    "answer": "B",
+    "explanation": "Quốc hội quyết định khi có ít nhất 2/3 tổng số đại biểu Quốc hội tán thành.",
+    "source": "Hiến pháp 2025, Điều 120, Khoản 1"},
+  {
+    "question": "Ủy ban dự thảo Hiến pháp do ai thành lập và ai quyết định thành phần, nhiệm vụ?",
+    "options": {
+      "A": "Chủ tịch nước thành lập",
+      "B": "Quốc hội thành lập, thành phần và nhiệm vụ do Quốc hội quyết định theo đề nghị của UBTVQH",
+      "C": "Chính phủ thành lập",
+      "D": "Tổng Kiểm toán nhà nước thành lập"},
+    "answer": "B",
+    "explanation": "Quốc hội thành lập Ủy ban dự thảo Hiến pháp, thành phần và nhiệm vụ do Quốc hội quyết định theo đề nghị của UBTVQH.",
+    "source": "Hiến pháp 2025, Điều 120, Khoản 2"},
+  {
+    "question": "Ủy ban dự thảo Hiến pháp có nhiệm vụ gì?",
+    "options": {
+      "A": "Chỉ lấy ý kiến đại biểu Quốc hội",
+      "B": "Soạn thảo, tổ chức lấy ý kiến Nhân dân và trình Quốc hội dự thảo Hiến pháp",
+      "C": "Chỉ soạn thảo nội dung",
+      "D": "Chỉ thẩm định dự thảo"},
+    "answer": "B",
+    "explanation": "Ủy ban dự thảo Hiến pháp có nhiệm vụ soạn thảo, tổ chức lấy ý kiến Nhân dân, trình Quốc hội dự thảo Hiến pháp.",
+    "source": "Hiến pháp 2025, Điều 120, Khoản 3"},
+  {
+    "question": "Hiến pháp được thông qua trong điều kiện nào?",
+    "options": {
+      "A": "Chỉ cần hơn nửa đại biểu Quốc hội tán thành",
+      "B": "Khi có ít nhất 2/3 tổng số đại biểu Quốc hội tán thành",
+      "C": "Chỉ cần Chủ tịch nước ký",
+      "D": "Chỉ cần Chính phủ đồng ý"},
+    "answer": "B",
+    "explanation": "Hiến pháp được thông qua khi có ít nhất 2/3 tổng số đại biểu Quốc hội tán thành.",
+    "source": "Hiến pháp 2025, Điều 120, Khoản 4"},
+  {
+    "question": "Việc trưng cầu ý dân về Hiến pháp do ai quyết định?",
+    "options": {
+      "A": "Chủ tịch nước",
+      "B": "Quốc hội",
+      "C": "Chính phủ",
+      "D": "Ủy ban thường vụ Quốc hội"},
+    "answer": "B",
+    "explanation": "Việc trưng cầu ý dân về Hiến pháp do Quốc hội quyết định.",
+    "source": "Hiến pháp 2025, Điều 120, Khoản 4"},
+  {
+    "question": "Thời hạn công bố, thời điểm có hiệu lực của Hiến pháp do ai quyết định?",
+    "options": {
+      "A": "Chủ tịch nước quyết định",
+      "B": "Quốc hội quyết định",
+      "C": "Chính phủ quyết định",
+      "D": "Tòa án nhân dân tối cao quyết định"},
+    "answer": "B",
+    "explanation": "Thời hạn công bố, thời điểm có hiệu lực của Hiến pháp do Quốc hội quyết định.",
+    "source": "Hiến pháp 2025, Điều 120, Khoản 5"},
+  {
+    "question": "Sau khi sắp xếp đơn vị hành chính năm 2025, việc kiện toàn bộ máy cơ quan nhà nước được thực hiện thế nào?",
+    "options": {
+      "A": "Tiến hành bầu mới tất cả chức danh",
+      "B": "Không bầu các chức danh lãnh đạo ở đơn vị hành chính mới, các chức danh được chỉ định bởi UBTVQH, Thủ tướng hoặc Thường trực Hội đồng nhân dân",
+      "C": "Chỉ Chính phủ quyết định",
+      "D": "Chỉ địa phương tự quyết"},
+    "answer": "B",
+    "explanation": "Các chức danh lãnh đạo được chỉ định bởi cơ quan có thẩm quyền, không tiến hành bầu mới ở đơn vị hành chính hình thành sau sắp xếp.",
+    "source": "Nghị quyết số 203/2025/QH15, Điều 2"
+  }
+]
