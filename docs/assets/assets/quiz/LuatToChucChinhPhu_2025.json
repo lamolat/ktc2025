@@ -23,6 +23,90 @@
         "explanation": "Chính phủ chịu trách nhiệm trước Quốc hội và báo cáo công tác trước Quốc hội, Ủy ban Thường vụ Quốc hội, Chủ tịch nước.",
         "source": "Luật Tổ chức Chính phủ 2025, Điều 1, 2"
     },
+	 {
+    "question": "Theo Luật Tổ chức Chính phủ 2025 (Luật số: 63/2025/QH15), Chính phủ báo cáo công tác của mình với Quốc hội, Ủy ban Thường vụ Quốc hội, Chủ tịch nước với tần suất như thế nào?",
+    "options": {
+      "A": "Một năm một lần",
+      "B": "Một năm hai lần",
+      "C": "Ba tháng một lần",
+      "D": "Theo từng quý"
+    },
+    "answer": "B",
+    "explanation": "Theo Điều 11 Khoản 2 của Luật Tổ chức Chính phủ số 63/2025/QH15, Chính phủ báo cáo công tác của mình với Quốc hội, Ủy ban Thường vụ Quốc hội, Chủ tịch nước **một năm hai lần**. Ngoài ra, Chính phủ cũng báo cáo công tác đột xuất theo yêu cầu của các cơ quan này [1].",
+    "source": "Luật Tổ chức Chính phủ 2025, Điều 11, Khoản 2"
+  },
+  {
+    "question": "Theo Luật Tổ chức Chính phủ 2025 (Luật số: 63/2025/QH15), số lượng Thứ trưởng, Phó Thủ trưởng cơ quan ngang Bộ được quy định như thế nào?",
+    "options": {
+      "A": "Không quá 04; riêng Bộ Quốc phòng, Bộ Công an, Bộ Ngoại giao không quá 05.",
+      "B": "Không quá 05; riêng Bộ Quốc phòng, Bộ Công an, Bộ Ngoại giao không quá 06.",
+      "C": "Không quá 06; riêng Bộ Quốc phòng, Bộ Công an, Bộ Ngoại giao không quá 07.",
+      "D": "Không giới hạn, tùy thuộc vào cơ cấu tổ chức cụ thể của mỗi Bộ."
+    },
+    "answer": "B",
+    "explanation": "Theo Điều 21 Khoản 2 của Luật Tổ chức Chính phủ số 63/2025/QH15, số lượng Thứ trưởng, Phó Thủ trưởng cơ quan ngang Bộ **không quá 05**, riêng Bộ Quốc phòng, Bộ Công an, Bộ Ngoại giao **không quá 06**, trừ trường hợp do yêu cầu điều động, luân chuyển cán bộ của cấp có thẩm quyền [2].",
+    "source": "Luật Tổ chức Chính phủ 2025, Điều 21, Khoản 2"
+  },
+  {
+    "question": "Theo Luật Tổ chức Chính phủ 2025 (Luật số: 63/2025/QH15), Chính phủ họp thường kỳ với tần suất nào?",
+    "options": {
+      "A": "Mỗi quý một phiên",
+      "B": "Hai tháng một phiên",
+      "C": "Mỗi tháng một phiên",
+      "D": "Theo yêu cầu đột xuất"
+    },
+    "answer": "C",
+    "explanation": "Theo Điều 26 Khoản 1 của Luật Tổ chức Chính phủ số 63/2025/QH15, Chính phủ họp thường kỳ **mỗi tháng một phiên**; họp chuyên đề, họp để giải quyết công việc phát sinh đột xuất theo quyết định của Thủ tướng Chính phủ, theo yêu cầu của Chủ tịch nước hoặc của ít nhất một phần ba tổng số thành viên Chính phủ [3].",
+    "source": "Luật Tổ chức Chính phủ 2025, Điều 26, Khoản 1"
+  },
+  {
+    "question": "Theo Luật Tổ chức Chính phủ 2025 (Luật số: 63/2025/QH15), phiên họp của Chính phủ chỉ được tiến hành khi có ít nhất bao nhiêu tổng số thành viên Chính phủ tham dự?",
+    "options": {
+      "A": "Một phần hai",
+      "B": "Hai phần ba",
+      "C": "Ba phần tư",
+      "D": "Tất cả các thành viên"
+    },
+    "answer": "B",
+    "explanation": "Theo Điều 28 Khoản 1 của Luật Tổ chức Chính phủ số 63/2025/QH15, phiên họp của Chính phủ chỉ được tiến hành khi có **ít nhất hai phần ba tổng số thành viên Chính phủ tham dự** [4].",
+    "source": "Luật Tổ chức Chính phủ 2025, Điều 28, Khoản 1"
+  },
+  {
+    "question": "Theo Luật Tổ chức Chính phủ 2025 (Luật số: 63/2025/QH15), một quyết định của Chính phủ phải được bao nhiêu tổng số thành viên Chính phủ biểu quyết tán thành?",
+    "options": {
+      "A": "Ít nhất một phần hai",
+      "B": "Quá nửa",
+      "C": "Hai phần ba",
+      "D": "Tất cả các thành viên"
+    },
+    "answer": "B",
+    "explanation": "Theo Điều 28 Khoản 3 của Luật Tổ chức Chính phủ số 63/2025/QH15, quyết định của Chính phủ phải được **quá nửa tổng số thành viên Chính phủ biểu quyết tán thành**. Trong trường hợp biểu quyết ngang nhau thì thực hiện theo ý kiến mà Thủ tướng Chính phủ đã biểu quyết [4].",
+    "source": "Luật Tổ chức Chính phủ 2025, Điều 28, Khoản 3"
+  },
+  {
+    "question": "Theo Luật Tổ chức Chính phủ 2025 (Luật số: 63/2025/QH15), Luật này có hiệu lực thi hành từ ngày nào?",
+    "options": {
+      "A": "Ngày 01 tháng 01 năm 2025",
+      "B": "Ngày 18 tháng 02 năm 2025",
+      "C": "Ngày 01 tháng 3 năm 2025",
+      "D": "Ngày 01 tháng 7 năm 2025"
+    },
+    "answer": "C",
+    "explanation": "Theo Điều 31 Khoản 1 của Luật Tổ chức Chính phủ số 63/2025/QH15, Luật này có hiệu lực thi hành từ ngày **01 tháng 3 năm 2025** [5].",
+    "source": "Luật Tổ chức Chính phủ 2025, Điều 31, Khoản 1"
+  },
+  {
+    "question": "Theo Luật Tổ chức Chính phủ 2025 (Luật số: 63/2025/QH15), trường hợp luật, nghị quyết của Quốc hội, pháp lệnh, nghị quyết của Ủy ban Thường vụ Quốc hội quy định về nhiệm vụ, quyền hạn của Chính phủ, Thủ tướng Chính phủ, Bộ trưởng, Thủ trưởng cơ quan ngang Bộ chưa phù hợp với Luật này thì phải điều chỉnh trong thời hạn bao lâu?",
+    "options": {
+      "A": "Trong thời hạn 01 năm kể từ ngày Luật này có hiệu lực thi hành.",
+      "B": "Trong thời hạn 02 năm kể từ ngày Luật này có hiệu lực thi hành.",
+      "C": "Trong thời hạn 03 năm kể từ ngày Luật này có hiệu lực thi hành.",
+      "D": "Không quy định thời hạn cụ thể."
+    },
+    "answer": "B",
+    "explanation": "Theo Điều 32 Khoản 1 của Luật Tổ chức Chính phủ số 63/2025/QH15, các quy định chưa phù hợp phải được điều chỉnh thống nhất với Luật này trong thời hạn **02 năm kể từ ngày Luật này có hiệu lực thi hành** [6].",
+    "source": "Luật Tổ chức Chính phủ 2025, Điều 32, Khoản 1"
+  },
     {
         "question": "Theo Luật Tổ chức Chính phủ 2025, thành viên Chính phủ gồm những ai?",
         "options": {
@@ -107,6 +191,174 @@
         "explanation": "Thủ tướng là người đứng đầu Chính phủ và hệ thống hành chính nhà nước.",
         "source": "Luật Tổ chức Chính phủ 2025, Điều 4, 5"
     },
+	 {
+    "question": "Theo Luật Tổ chức Chính phủ 2025 (Luật số: 63/2025/QH15), Chính phủ báo cáo công tác của mình với Quốc hội, Ủy ban Thường vụ Quốc hội, Chủ tịch nước với tần suất như thế nào?",
+    "options": {
+      "A": "Một năm một lần",
+      "B": "Một năm hai lần",
+      "C": "Ba tháng một lần",
+      "D": "Theo từng quý"
+    },
+    "answer": "B",
+    "explanation": "Theo Điều 11 Khoản 2 của Luật Tổ chức Chính phủ số 63/2025/QH15, Chính phủ báo cáo công tác của mình với Quốc hội, Ủy ban Thường vụ Quốc hội, Chủ tịch nước **một năm hai lần**. Ngoài ra, Chính phủ cũng báo cáo công tác đột xuất theo yêu cầu của các cơ quan này [1].",
+    "source": "Luật Tổ chức Chính phủ 2025, Điều 11, Khoản 2"
+  },
+  {
+    "question": "Theo Luật Tổ chức Chính phủ 2025 (Luật số: 63/2025/QH15), số lượng Thứ trưởng, Phó Thủ trưởng cơ quan ngang Bộ được quy định như thế nào?",
+    "options": {
+      "A": "Không quá 04; riêng Bộ Quốc phòng, Bộ Công an, Bộ Ngoại giao không quá 05.",
+      "B": "Không quá 05; riêng Bộ Quốc phòng, Bộ Công an, Bộ Ngoại giao không quá 06.",
+      "C": "Không quá 06; riêng Bộ Quốc phòng, Bộ Công an, Bộ Ngoại giao không quá 07.",
+      "D": "Không giới hạn, tùy thuộc vào cơ cấu tổ chức cụ thể của mỗi Bộ."
+    },
+    "answer": "B",
+    "explanation": "Theo Điều 21 Khoản 2 của Luật Tổ chức Chính phủ số 63/2025/QH15, số lượng Thứ trưởng, Phó Thủ trưởng cơ quan ngang Bộ **không quá 05**, riêng Bộ Quốc phòng, Bộ Công an, Bộ Ngoại giao **không quá 06**, trừ trường hợp do yêu cầu điều động, luân chuyển cán bộ của cấp có thẩm quyền [2].",
+    "source": "Luật Tổ chức Chính phủ 2025, Điều 21, Khoản 2"
+  },
+  {
+    "question": "Theo Luật Tổ chức Chính phủ 2025 (Luật số: 63/2025/QH15), phiên họp của Chính phủ chỉ được tiến hành khi có ít nhất bao nhiêu tổng số thành viên Chính phủ tham dự?",
+    "options": {
+      "A": "Một phần hai",
+      "B": "Hai phần ba",
+      "C": "Ba phần tư",
+      "D": "Tất cả các thành viên"
+    },
+    "answer": "B",
+    "explanation": "Theo Điều 28 Khoản 1 của Luật Tổ chức Chính phủ số 63/2025/QH15, phiên họp của Chính phủ chỉ được tiến hành khi có **ít nhất hai phần ba tổng số thành viên Chính phủ tham dự** [3].",
+    "source": "Luật Tổ chức Chính phủ 2025, Điều 28, Khoản 1"
+  },
+  {
+    "question": "Theo Luật Tổ chức Chính phủ 2025 (Luật số: 63/2025/QH15), một quyết định của Chính phủ phải được bao nhiêu tổng số thành viên Chính phủ biểu quyết tán thành?",
+    "options": {
+      "A": "Ít nhất một phần hai",
+      "B": "Quá nửa",
+      "C": "Hai phần ba",
+      "D": "Tất cả các thành viên"
+    },
+    "answer": "B",
+    "explanation": "Theo Điều 28 Khoản 3 của Luật Tổ chức Chính phủ số 63/2025/QH15, quyết định của Chính phủ phải được **quá nửa tổng số thành viên Chính phủ biểu quyết tán thành**. Trong trường hợp biểu quyết ngang nhau thì thực hiện theo ý kiến mà Thủ tướng Chính phủ đã biểu quyết [3].",
+    "source": "Luật Tổ chức Chính phủ 2025, Điều 28, Khoản 3"
+  },
+  {
+    "question": "Theo Luật Tổ chức Chính phủ 2025 (Luật số: 63/2025/QH15), trường hợp luật, nghị quyết của Quốc hội, pháp lệnh, nghị quyết của Ủy ban Thường vụ Quốc hội quy định về nhiệm vụ, quyền hạn của Chính phủ, Thủ tướng Chính phủ, Bộ trưởng, Thủ trưởng cơ quan ngang Bộ chưa phù hợp với Luật này thì phải điều chỉnh trong thời hạn bao lâu?",
+    "options": {
+      "A": "Trong thời hạn 01 năm kể từ ngày Luật này có hiệu lực thi hành.",
+      "B": "Trong thời hạn 02 năm kể từ ngày Luật này có hiệu lực thi hành.",
+      "C": "Trong thời hạn 03 năm kể từ ngày Luật này có hiệu lực thi hành.",
+      "D": "Không quy định thời hạn cụ thể."
+    },
+    "answer": "B",
+    "explanation": "Theo Điều 32 Khoản 1 của Luật Tổ chức Chính phủ số 63/2025/QH15, các quy định chưa phù hợp phải được điều chỉnh thống nhất với Luật này trong thời hạn **02 năm kể từ ngày Luật này có hiệu lực thi hành** [4].",
+    "source": "Luật Tổ chức Chính phủ 2025, Điều 32, Khoản 1"
+  },
+ {
+    "question": "Theo Luật Tổ chức Chính phủ 2025 (Luật số: 63/2025/QH15), có bao nhiêu nguyên tắc tổ chức và hoạt động của Chính phủ được quy định?",
+    "options": {
+      "A": "4 nguyên tắc",
+      "B": "5 nguyên tắc",
+      "C": "6 nguyên tắc",
+      "D": "7 nguyên tắc"
+    },
+    "answer": "C",
+    "explanation": "Điều 5 của Luật Tổ chức Chính phủ số 63/2025/QH15 quy định **06 nguyên tắc** tổ chức và hoạt động của Chính phủ [7-9].",
+    "source": "Luật Tổ chức Chính phủ 2025, Điều 5"
+  },
+  {
+    "question": "Theo Luật Tổ chức Chính phủ 2025 (Luật số: 63/2025/QH15), có bao nhiêu nguyên tắc phân định thẩm quyền được xác định?",
+    "options": {
+      "A": "7 nguyên tắc",
+      "B": "8 nguyên tắc",
+      "C": "9 nguyên tắc",
+      "D": "10 nguyên tắc"
+    },
+    "answer": "C",
+    "explanation": "Điều 6 của Luật Tổ chức Chính phủ số 63/2025/QH15 xác định **09 nguyên tắc** phân định thẩm quyền [9-14].",
+    "source": "Luật Tổ chức Chính phủ 2025, Điều 6"
+  },
+ {
+    "question": "Theo Luật Tổ chức Chính phủ 2025 (Luật số: 63/2025/QH15), Chính phủ có bao nhiêu nhiệm vụ, quyền hạn chính được quy định cụ thể tại Điều 10?",
+    "options": {
+      "A": "6 nhiệm vụ, quyền hạn",
+      "B": "7 nhiệm vụ, quyền hạn",
+      "C": "8 nhiệm vụ, quyền hạn",
+      "D": "9 nhiệm vụ, quyền hạn"
+    },
+    "answer": "C",
+    "explanation": "Điều 10 của Luật Tổ chức Chính phủ số 63/2025/QH15 quy định 8 nhiệm vụ, quyền hạn chính của Chính phủ, bao gồm: Trình Quốc hội quyết định; Trình Ủy ban Thường vụ Quốc hội quyết định; Trình Chủ tịch nước quyết định; Tổ chức thi hành Hiến pháp, luật, nghị quyết; Thống nhất quản lý nền hành chính quốc gia; Thống nhất quản lý về kinh tế, văn hóa, xã hội, giáo dục, y tế, khoa học, công nghệ, môi trường, thông tin, truyền thông, đối ngoại và hội nhập quốc tế, quốc phòng, an ninh quốc gia, trật tự, an toàn xã hội; Quyết định các chính sách phát triển ngành, lĩnh vực, vùng, địa phương; và Quy định các chính sách theo chức năng, nhiệm vụ, thẩm quyền của Chính phủ.",
+    "source": "Luật Tổ chức Chính phủ 2025, Điều 10"
+  },
+  {
+    "question": "Theo Luật Tổ chức Chính phủ 2025 (Luật số: 63/2025/QH15), Thủ tướng Chính phủ có bao nhiêu nhiệm vụ và quyền hạn chính được quy định cụ thể tại Điều 13?",
+    "options": {
+      "A": "4 nhiệm vụ và quyền hạn",
+      "B": "5 nhiệm vụ và quyền hạn",
+      "C": "6 nhiệm vụ và quyền hạn",
+      "D": "7 nhiệm vụ và quyền hạn"
+    },
+    "answer": "C",
+    "explanation": "Điều 13 của Luật Tổ chức Chính phủ số 63/2025/QH15 quy định 6 nhiệm vụ và quyền hạn chính của Thủ tướng Chính phủ, bao gồm: Trình Quốc hội phê chuẩn; Trình Ủy ban Thường vụ Quốc hội phê chuẩn; Trình Chủ tịch nước quyết định; Lãnh đạo công tác của Chính phủ; Lãnh đạo và chịu trách nhiệm về hoạt động của hệ thống hành chính nhà nước; và Ban hành quyết định, chỉ thị và hướng dẫn, kiểm tra việc thi hành các văn bản đó.",
+    "source": "Luật Tổ chức Chính phủ 2025, Điều 13"
+  },
+  {
+    "question": "Theo Luật Tổ chức Chính phủ 2025 (Luật số: 63/2025/QH15), Thủ tướng Chính phủ có bao nhiêu trách nhiệm chính được quy định cụ thể tại Điều 14?",
+    "options": {
+      "A": "2 trách nhiệm",
+      "B": "3 trách nhiệm",
+      "C": "4 trách nhiệm",
+      "D": "5 trách nhiệm"
+    },
+    "answer": "C",
+    "explanation": "Điều 14 của Luật Tổ chức Chính phủ số 63/2025/QH15 quy định 4 trách nhiệm chính của Thủ tướng Chính phủ, bao gồm: Chịu trách nhiệm trước Quốc hội về hoạt động của Chính phủ; Thực hiện báo cáo công tác của Chính phủ, Thủ tướng Chính phủ; Thực hiện chế độ báo cáo trước Nhân dân; và Thay mặt Chính phủ hoặc ủy quyền ký các văn bản của Chính phủ.",
+    "source": "Luật Tổ chức Chính phủ 2025, Điều 14"
+  },
+  {
+    "question": "Theo Luật Tổ chức Chính phủ 2025 (Luật số: 63/2025/QH15), với tư cách là thành viên Chính phủ, Bộ trưởng, Thủ trưởng cơ quan ngang Bộ có bao nhiêu nhiệm vụ và quyền hạn chính?",
+    "options": {
+      "A": "3 nhiệm vụ và quyền hạn",
+      "B": "4 nhiệm vụ và quyền hạn",
+      "C": "5 nhiệm vụ và quyền hạn",
+      "D": "6 nhiệm vụ và quyền hạn"
+    },
+    "answer": "B",
+    "explanation": "Điều 17 của Luật Tổ chức Chính phủ số 63/2025/QH15 quy định 4 nhiệm vụ và quyền hạn chính của Bộ trưởng, Thủ trưởng cơ quan ngang Bộ với tư cách là thành viên Chính phủ, bao gồm: Tham dự phiên họp Chính phủ; Đề xuất với Chính phủ, Thủ tướng Chính phủ; Thực hiện công việc cụ thể theo ngành, lĩnh vực được phân công hoặc ủy quyền; và Thực hiện nhiệm vụ, quyền hạn khác do Thủ tướng Chính phủ ủy quyền.",
+    "source": "Luật Tổ chức Chính phủ 2025, Điều 17"
+  },
+  {
+    "question": "Theo Luật Tổ chức Chính phủ 2025 (Luật số: 63/2025/QH15), với tư cách là thành viên Chính phủ, Bộ trưởng, Thủ trưởng cơ quan ngang Bộ có bao nhiêu trách nhiệm chính?",
+    "options": {
+      "A": "1 trách nhiệm",
+      "B": "2 trách nhiệm",
+      "C": "3 trách nhiệm",
+      "D": "4 trách nhiệm"
+    },
+    "answer": "B",
+    "explanation": "Điều 18 của Luật Tổ chức Chính phủ số 63/2025/QH15 quy định 2 trách nhiệm chính của Bộ trưởng, Thủ trưởng cơ quan ngang Bộ với tư cách là thành viên Chính phủ, bao gồm: Chịu trách nhiệm cá nhân trước Thủ tướng Chính phủ, Chính phủ và Quốc hội về ngành, lĩnh vực được phân công; và Thực hiện báo cáo công tác trước Chính phủ, Thủ tướng Chính phủ và chế độ báo cáo trước Nhân dân.",
+    "source": "Luật Tổ chức Chính phủ 2025, Điều 18"
+  },
+  {
+    "question": "Theo Luật Tổ chức Chính phủ 2025 (Luật số: 63/2025/QH15), với tư cách là người đứng đầu Bộ, cơ quan ngang Bộ, Bộ trưởng, Thủ trưởng cơ quan ngang Bộ có bao nhiêu nhiệm vụ và quyền hạn chính?",
+    "options": {
+      "A": "7 nhiệm vụ và quyền hạn",
+      "B": "8 nhiệm vụ và quyền hạn",
+      "C": "9 nhiệm vụ và quyền hạn",
+      "D": "10 nhiệm vụ và quyền hạn"
+    },
+    "answer": "C",
+    "explanation": "Điều 19 của Luật Tổ chức Chính phủ số 63/2025/QH15 quy định 9 nhiệm vụ và quyền hạn chính của Bộ trưởng, Thủ trưởng cơ quan ngang Bộ với tư cách là người đứng đầu Bộ, cơ quan ngang Bộ, bao gồm: Trình Chính phủ, Thủ tướng Chính phủ xem xét, quyết định; Ban hành văn bản quy phạm pháp luật; Lãnh đạo, chỉ đạo và chịu trách nhiệm cá nhân về mọi mặt công tác; Quyết định theo thẩm quyền vấn đề thuộc chức năng, nhiệm vụ, quyền hạn; Chủ động phối hợp chặt chẽ với các cơ quan; Hướng dẫn và kiểm tra, phối hợp với các Bộ, cơ quan ngang Bộ; Chỉ đạo, hướng dẫn, kiểm tra Ủy ban nhân dân các cấp; Đề nghị Ủy ban nhân dân, Chủ tịch Ủy ban nhân dân cấp tỉnh đình chỉ; và Thực hiện nhiệm vụ, quyền hạn khác do Chính phủ, Thủ tướng Chính phủ giao.",
+    "source": "Luật Tổ chức Chính phủ 2025, Điều 19"
+  },
+  {
+    "question": "Theo Luật Tổ chức Chính phủ 2025 (Luật số: 63/2025/QH15), với tư cách là người đứng đầu Bộ, cơ quan ngang Bộ, Bộ trưởng, Thủ trưởng cơ quan ngang Bộ có bao nhiêu trách nhiệm chính?",
+    "options": {
+      "A": "1 trách nhiệm",
+      "B": "2 trách nhiệm",
+      "C": "3 trách nhiệm",
+      "D": "4 trách nhiệm"
+    },
+    "answer": "B",
+    "explanation": "Điều 20 của Luật Tổ chức Chính phủ số 63/2025/QH15 quy định 2 trách nhiệm chính của Bộ trưởng, Thủ trưởng cơ quan ngang Bộ với tư cách là người đứng đầu Bộ, cơ quan ngang Bộ, bao gồm: Chịu trách nhiệm cá nhân trước Thủ tướng Chính phủ, Chính phủ về kết quả, hiệu lực, hiệu quả hoạt động; và Thực hiện báo cáo công tác trước Chính phủ, Thủ tướng Chính phủ; chế độ báo cáo trước Nhân dân.",
+    "source": "Luật Tổ chức Chính phủ 2025, Điều 20"
+  },
     {
         "question": "Theo Luật Tổ chức Chính phủ 2025, nguyên tắc tổ chức và hoạt động của Chính phủ là gì?",
         "options": {
