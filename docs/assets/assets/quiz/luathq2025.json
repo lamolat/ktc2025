@@ -430,5 +430,605 @@
         "answer": "C",
         "explanation": "Theo khoản 11 Điều 4 Luật Hải quan 2025: 'Kiểm soát hải quan là biện pháp tuần tra, điều tra, xác minh hoặc biện pháp nghiệp vụ khác do cơ quan hải quan áp dụng để phòng, chống buôn lậu, vận chuyển trái phép hàng hóa qua biên giới và hành vi khác vi phạm pháp luật về hải quan.'",
         "source": "Luật Hải quan 2025, Điều 4, Khoản 11"
+    },
+    {
+        "question": "Theo khoản 1 Điều 18, người khai hải quan có quyền nào sau đây?",
+        "options": {
+            "A": "Yêu cầu cơ quan hải quan cung cấp thông tin, hướng dẫn làm thủ tục hải quan",
+            "B": "Yêu cầu cơ quan hải quan xác định trước mã số, xuất xứ, trị giá hải quan khi đã cung cấp đủ thông tin",
+            "C": "Xem trước và lấy mẫu hàng hóa dưới sự giám sát của công chức hải quan trước khi khai",
+            "D": "Tất cả các quyền nêu trên"
+        },
+        "answer": "D",
+        "explanation": "Theo khoản 1 Điều 18, người khai hải quan có tất cả các quyền được liệt kê tại các điểm a, b và c.",
+        "source": "Luật Hải quan 2025, Điều 18, Khoản 1, các điểm a, b, c"
+    },
+    {
+        "question": "Người khai hải quan chỉ được yêu cầu kiểm tra lại hàng hóa sau khi hàng hóa đó đã được thông quan.",
+        "options": {
+            "A": "Đúng",
+            "B": "Sai",
+            "C": "",
+            "D": ""
+        },
+        "answer": "B",
+        "explanation": "Theo điểm d khoản 1 Điều 18, người khai hải quan có quyền yêu cầu kiểm tra lại thực tế hàng hóa trong trường hợp hàng hóa CHƯA được thông quan.",
+        "source": "Luật Hải quan 2025, Điều 18, Khoản 1, điểm d"
+    },
+    {
+        "question": "Theo điểm đ khoản 1 Điều 18, người khai hải quan có quyền sử dụng hồ sơ hải quan để thông quan hàng hóa, vận chuyển hàng hóa và thực hiện các thủ tục có liên quan với _______ theo quy định của pháp luật.",
+        "options": {
+            "A": "",
+            "B": "",
+            "C": "các cơ quan khác",
+            "D": ""
+        },
+        "answer": "C",
+        "explanation": "Theo điểm đ khoản 1 Điều 18, người khai hải quan có quyền sử dụng hồ sơ hải quan để thực hiện các thủ tục có liên quan với các cơ quan khác.",
+        "source": "Luật Hải quan 2025, Điều 18, Khoản 1, điểm đ"
+    },
+    {
+        "question": "Theo khoản 2 Điều 18, nghĩa vụ của người khai hải quan là chủ hàng hóa bao gồm?",
+        "options": {
+            "A": "Khai và làm thủ tục hải quan theo quy định",
+            "B": "Chịu trách nhiệm trước pháp luật về sự xác thực của nội dung đã khai",
+            "C": "Lưu giữ hồ sơ hải quan trong thời hạn 03 năm kể từ ngày đăng ký tờ khai",
+            "D": "Cả A và B đều đúng"
+        },
+        "answer": "D",
+        "explanation": "Theo khoản 2 Điều 18, điểm a và c, nghĩa vụ bao gồm khai và làm thủ tục hải quan (a) và chịu trách nhiệm về sự xác thực của nội dung đã khai (c). Điểm C sai vì thời hạn lưu giữ là 05 năm, không phải 03 năm.",
+        "source": "Luật Hải quan 2025, Điều 18, Khoản 2, các điểm a, c, đ"
+    },
+    {
+        "question": "Người khai hải quan có nghĩa vụ lưu giữ hồ sơ hải quan đối với hàng hóa đã thông quan trong thời hạn 07 năm.",
+        "options": {
+            "A": "Đúng",
+            "B": "Sai",
+            "C": "",
+            "D": ""
+        },
+        "answer": "B",
+        "explanation": "Theo điểm đ khoản 2 Điều 18, thời hạn lưu giữ hồ sơ hải quan là 05 năm kể từ ngày đăng ký tờ khai hải quan, không phải 07 năm.",
+        "source": "Luật Hải quan 2025, Điều 18, Khoản 2, điểm đ"
+    },
+    {
+        "question": "Theo điểm đ khoản 2 Điều 18, người khai hải quan phải lưu giữ hồ sơ hải quan trong thời hạn _______ năm kể từ ngày đăng ký tờ khai.",
+        "options": {
+            "A": "",
+            "B": "",
+            "C": "05",
+            "D": ""
+        },
+        "answer": "C",
+        "explanation": "Theo điểm đ khoản 2 Điều 18, thời hạn lưu giữ hồ sơ hải quan là 05 năm.",
+        "source": "Luật Hải quan 2025, Điều 18, Khoản 2, điểm đ"
+    },
+    {
+        "question": "Theo khoản 3 Điều 18, đối tượng nào sau đây phải thực hiện các nghĩa vụ quy định tại các điểm a, c, d, e và g khoản 2?",
+        "options": {
+            "A": "Chủ hàng hóa",
+            "B": "Đại lý làm thủ tục hải quan",
+            "C": "Người điều khiển phương tiện vận tải",
+            "D": "Cả B và C đều đúng"
+        },
+        "answer": "C",
+        "explanation": "Theo khoản 3 Điều 18, người khai hải quan là người điều khiển phương tiện vận tải thực hiện nghĩa vụ quy định tại các điểm a, c, d, e và g khoản 2. Đại lý làm thủ tục hải quan thực hiện các nghĩa vụ tại điểm a, b, c, d, e và g.",
+        "source": "Luật Hải quan 2025, Điều 18, Khoản 3"
+    },
+    {
+        "question": "Theo Điều 19, nhiệm vụ và quyền hạn của công chức hải quan KHÔNG bao gồm việc nào sau đây?",
+        "options": {
+            "A": "Hướng dẫn người khai hải quan, tổ chức, cá nhân có liên quan khi có yêu cầu",
+            "B": "Thực hiện kiểm tra, giám sát hải quan và giám sát việc xếp dỡ hàng hóa",
+            "C": "Trực tiếp xử lý và quyết định mức thuế phải nộp thay cho người khai hải quan",
+            "D": "Yêu cầu người khai hải quan cung cấp thông tin, chứng từ liên quan đến hàng hóa"
+        },
+        "answer": "C",
+        "explanation": "Theo Điều 19, công chức hải quan có các nhiệm vụ, quyền hạn từ khoản 1 đến 7, nhưng không có quyền trực tiếp xử lý và quyết định mức thuế thay cho người khai hải quan. Người khai hải quan tự kê khai, tính thuế.",
+        "source": "Luật Hải quan 2025, Điều 19"
+    },
+    {
+        "question": "Công chức hải quan được quyền lấy mẫu hàng hóa mà không cần sự có mặt của người khai hải quan.",
+        "options": {
+            "A": "Đúng",
+            "B": "Sai",
+            "C": "",
+            "D": ""
+        },
+        "answer": "B",
+        "explanation": "Theo khoản 4 Điều 19, việc lấy mẫu hàng hóa phải được thực hiện với sự có mặt của người khai hải quan.",
+        "source": "Luật Hải quan 2025, Điều 19, Khoản 4"
+    },
+    {
+        "question": "Theo khoản 4 Điều 19, việc lấy mẫu hàng hóa phải được thực hiện với sự có mặt của _______.",
+        "options": {
+            "A": "",
+            "B": "",
+            "C": "người khai hải quan",
+            "D": ""
+        },
+        "answer": "C",
+        "explanation": "Theo khoản 4 Điều 19, việc lấy mẫu hàng hóa để phân tích hoặc trưng cầu giám định phải có sự có mặt của người khai hải quan.",
+        "source": "Luật Hải quan 2025, Điều 19, Khoản 4"
+    },
+    {
+        "question": "Theo khoản 6 Điều 19, công chức hải quan có quyền yêu cầu người chỉ huy, người điều khiển phương tiện vận tải thực hiện điều gì?",
+        "options": {
+            "A": "Đi đúng tuyến đường, đúng thời gian, dừng đúng nơi quy định",
+            "B": "Cung cấp thông tin về lộ trình vận chuyển trước 24 giờ",
+            "C": "Chịu trách nhiệm bảo quản hàng hóa trong suốt quá trình vận chuyển",
+            "D": "Mua bảo hiểm cho toàn bộ lô hàng đang vận chuyển"
+        },
+        "answer": "A",
+        "explanation": "Theo khoản 6 Điều 19, công chức hải quan có quyền yêu cầu người chỉ huy, người điều khiển phương tiện vận tải đi đúng tuyến đường, đúng thời gian, dừng đúng nơi quy định.",
+        "source": "Luật Hải quan 2025, Điều 19, Khoản 6"
+    },
+    {
+        "question": "Theo khoản 1 Điều 20, điều kiện để trở thành đại lý làm thủ tục hải quan bao gồm?",
+        "options": {
+            "A": "Có Giấy chứng nhận đăng ký kinh doanh với ngành nghề phù hợp",
+            "B": "Có nhân viên đại lý làm thủ tục hải quan",
+            "C": "Có hạ tầng công nghệ thông tin đáp ứng điều kiện khai hải quan điện tử",
+            "D": "Tất cả các điều kiện trên"
+        },
+        "answer": "D",
+        "explanation": "Theo khoản 1 Điều 20, một tổ chức phải đáp ứng đầy đủ cả 3 điều kiện tại các điểm a, b và c mới được công nhận là đại lý làm thủ tục hải quan.",
+        "source": "Luật Hải quan 2025, Điều 20, Khoản 1, các điểm a, b, c"
+    },
+    {
+        "question": "Nhân viên đại lý làm thủ tục hải quan bắt buộc phải là công dân Việt Nam.",
+        "options": {
+            "A": "Đúng",
+            "B": "Sai",
+            "C": "",
+            "D": ""
+        },
+        "answer": "A",
+        "explanation": "Theo khoản 2 Điều 20, nhân viên đại lý làm thủ tục hải quan là công dân Việt Nam.",
+        "source": "Luật Hải quan 2025, Điều 20, Khoản 2"
+    },
+    {
+        "question": "Theo khoản 2 Điều 20, nhân viên đại lý làm thủ tục hải quan phải có trình độ _______ kinh tế, luật, kỹ thuật trở lên.",
+        "options": {
+            "A": "",
+            "B": "",
+            "C": "cao đẳng",
+            "D": ""
+        },
+        "answer": "C",
+        "explanation": "Theo điểm a khoản 2 Điều 20, nhân viên đại lý phải có trình độ cao đẳng trở lên về các ngành kinh tế, luật hoặc kỹ thuật.",
+        "source": "Luật Hải quan 2025, Điều 20, Khoản 2, điểm a"
+    },
+    {
+        "question": "Theo Điều 20, thẩm quyền cấp và thu hồi mã số nhân viên đại lý làm thủ tục hải quan thuộc về ai?",
+        "options": {
+            "A": "Bộ trưởng Bộ Tài chính",
+            "B": "Cục trưởng Cục Hải quan tỉnh",
+            "C": "Tổng cục trưởng Tổng cục Hải quan",
+            "D": "Thủ trưởng cơ quan hải quan nơi đăng ký hoạt động"
+        },
+        "answer": "C",
+        "explanation": "Theo khoản 3 Điều 20, Tổng cục trưởng Tổng cục Hải quan có thẩm quyền cấp và thu hồi mã số nhân viên đại lý làm thủ tục hải quan.",
+        "source": "Luật Hải quan 2025, Điều 20, Khoản 3"
+    },
+    {
+        "question": "Đại lý làm thủ tục hải quan phải tuân thủ các quyền và nghĩa vụ của người khai hải quan được quy định tại Điều 21 của Luật này.",
+        "options": {
+            "A": "Đúng",
+            "B": "Sai",
+            "C": "",
+            "D": ""
+        },
+        "answer": "B",
+        "explanation": "Theo khoản 4 Điều 20, đại lý làm thủ tục hải quan thực hiện quyền và nghĩa vụ của người khai hải quan quy định tại Điều 18, không phải Điều 21.",
+        "source": "Luật Hải quan 2025, Điều 20, Khoản 4"
+    },
+    {
+        "question": "Theo khoản 5 Điều 20, Bộ trưởng Bộ Tài chính quy định chi tiết về _______ công nhận và hoạt động của đại lý làm thủ tục hải quan.",
+        "options": {
+            "A": "",
+            "B": "",
+            "C": "trình tự, thủ tục",
+            "D": ""
+        },
+        "answer": "C",
+        "explanation": "Theo khoản 5 Điều 20, Bộ trưởng Bộ Tài chính quy định chi tiết trình tự, thủ tục công nhận và hoạt động của đại lý làm thủ tục hải quan.",
+        "source": "Luật Hải quan 2025, Điều 20, Khoản 5"
+    },
+    {
+        "question": "Theo khoản 1 Điều 4, 'Chuyển cửa khẩu' được định nghĩa là việc chuyển hàng hóa, phương tiện vận tải đang chịu sự kiểm tra, giám sát hải quan từ đâu đến đâu?",
+        "options": {
+            "A": "Từ cửa khẩu nhập cảnh đến cửa khẩu xuất cảnh",
+            "B": "Từ địa điểm làm thủ tục hải quan này đến địa điểm làm thủ tục hải quan khác",
+            "C": "Từ kho ngoại quan đến địa điểm thu gom hàng lẻ",
+            "D": "Từ phương tiện vận tải nhập cảnh sang phương tiện vận tải xuất cảnh"
+        },
+        "answer": "B",
+        "explanation": "Theo khoản 1 Điều 4, 'Chuyển cửa khẩu' là việc chuyển hàng hóa, phương tiện vận tải đang chịu sự kiểm tra, giám sát hải quan từ địa điểm làm thủ tục hải quan này đến địa điểm làm thủ tục hải quan khác.",
+        "source": "Luật Hải quan 2025, Điều 4, Khoản 1"
+    },
+    {
+        "question": "'Chuyển cửa khẩu' chỉ áp dụng đối với hàng hóa, không áp dụng đối với phương tiện vận tải.",
+        "options": {
+            "A": "Đúng",
+            "B": "Sai",
+            "C": "",
+            "D": ""
+        },
+        "answer": "B",
+        "explanation": "Theo khoản 1 Điều 4, 'Chuyển cửa khẩu' áp dụng cho cả hàng hóa và phương tiện vận tải đang chịu sự kiểm tra, giám sát hải quan.",
+        "source": "Luật Hải quan 2025, Điều 4, Khoản 1"
+    },
+    {
+        "question": "Theo khoản 1 Điều 4, 'Chuyển cửa khẩu' là việc chuyển hàng hóa, phương tiện vận tải đang chịu sự kiểm tra, giám sát hải quan từ địa điểm làm thủ tục hải quan này đến địa điểm làm thủ tục hải quan _______.",
+        "options": {
+            "A": "",
+            "B": "",
+            "C": "khác",
+            "D": ""
+        },
+        "answer": "C",
+        "explanation": "Theo khoản 1 Điều 4, 'Chuyển cửa khẩu' là việc chuyển từ địa điểm làm thủ tục hải quan này đến địa điểm làm thủ tục hải quan khác.",
+        "source": "Luật Hải quan 2025, Điều 4, Khoản 1"
+    },
+    {
+        "question": "Theo khoản 2 Điều 4, 'Chuyển tải' KHÔNG bao gồm hoạt động nào sau đây?",
+        "options": {
+            "A": "Chuyển hàng hóa từ phương tiện vận tải nhập cảnh sang phương tiện vận tải xuất cảnh để xuất khẩu",
+            "B": "Chuyển hàng hóa từ phương tiện vận tải nhập cảnh xuống kho, bãi trong khu vực cửa khẩu",
+            "C": "Xếp hàng hóa từ kho, bãi lên phương tiện vận tải khác để xuất khẩu",
+            "D": "Chuyển hàng hóa từ phương tiện vận tải nội địa sang phương tiện vận tải khác để vận chuyển nội địa"
+        },
+        "answer": "D",
+        "explanation": "Theo khoản 2 Điều 4, 'Chuyển tải' chỉ áp dụng cho hàng hóa để xuất khẩu, không áp dụng cho vận chuyển nội địa.",
+        "source": "Luật Hải quan 2025, Điều 4, Khoản 2"
+    },
+    {
+        "question": "Việc chuyển hàng hóa xuống kho, bãi trong khu vực cửa khẩu rồi sau đó xếp lên phương tiện vận tải khác để xuất khẩu được gọi là 'Chuyển tải'.",
+        "options": {
+            "A": "Đúng",
+            "B": "Sai",
+            "C": "",
+            "D": ""
+        },
+        "answer": "A",
+        "explanation": "Theo khoản 2 Điều 4, 'Chuyển tải' bao gồm cả việc chuyển hàng hóa từ phương tiện vận tải xuống kho, bãi trong khu vực cửa khẩu, sau đó xếp lên phương tiện vận tải khác để xuất khẩu.",
+        "source": "Luật Hải quan 2025, Điều 4, Khoản 2"
+    },
+    {
+        "question": "Theo khoản 2 Điều 4, 'Chuyển tải' là việc chuyển hàng hóa từ phương tiện vận tải nhập cảnh sang phương tiện vận tải _______ để xuất khẩu.",
+        "options": {
+            "A": "",
+            "B": "",
+            "C": "xuất cảnh",
+            "D": ""
+        },
+        "answer": "C",
+        "explanation": "Theo khoản 2 Điều 4, 'Chuyển tải' bao gồm việc chuyển hàng hóa từ phương tiện vận tải nhập cảnh sang phương tiện vận tải xuất cảnh để xuất khẩu.",
+        "source": "Luật Hải quan 2025, Điều 4, Khoản 2"
+    },
+    {
+        "question": "Theo khoản 3 Điều 4, 'Cơ chế một cửa quốc gia' cho phép người khai hải quan thực hiện điều gì?",
+        "options": {
+            "A": "Nộp hồ sơ giấy tại một cơ quan duy nhất",
+            "B": "Gửi thông tin, chứng từ điện tử qua hệ thống thông tin tích hợp",
+            "C": "Được miễn kiểm tra thực tế hàng hóa",
+            "D": "Thực hiện thủ tục tại bất kỳ cửa khẩu nào"
+        },
+        "answer": "B",
+        "explanation": "Theo khoản 3 Điều 4, 'Cơ chế một cửa quốc gia' cho phép người khai hải quan gửi thông tin, chứng từ điện tử để thực hiện thủ tục hải quan và thủ tục của cơ quan quản lý nhà nước liên quan thông qua một hệ thống thông tin tích hợp.",
+        "source": "Luật Hải quan 2025, Điều 4, Khoản 3"
+    },
+    {
+        "question": "Trong cơ chế một cửa quốc gia, cơ quan hải quan quyết định cho phép hàng hóa được xuất khẩu, nhập khẩu, quá cảnh.",
+        "options": {
+            "A": "Đúng",
+            "B": "Sai",
+            "C": "",
+            "D": ""
+        },
+        "answer": "B",
+        "explanation": "Theo khoản 3 Điều 4, cơ quan quản lý nhà nước quyết định cho phép hàng hóa được xuất khẩu, nhập khẩu, quá cảnh; còn cơ quan hải quan quyết định thông quan, giải phóng hàng hóa.",
+        "source": "Luật Hải quan 2025, Điều 4, Khoản 3"
+    },
+    {
+        "question": "Theo khoản 3 Điều 4, 'Cơ chế một cửa quốc gia' cho phép người khai hải quan gửi thông tin, chứng từ _______ thông qua một hệ thống thông tin tích hợp.",
+        "options": {
+            "A": "",
+            "B": "",
+            "C": "điện tử",
+            "D": ""
+        },
+        "answer": "C",
+        "explanation": "Theo khoản 3 Điều 4, 'Cơ chế một cửa quốc gia' cho phép người khai hải quan gửi thông tin, chứng từ điện tử để thực hiện thủ tục hải quan.",
+        "source": "Luật Hải quan 2025, Điều 4, Khoản 3"
+    },
+    {
+        "question": "Theo khoản 4 Điều 4, 'Địa điểm thu gom hàng lẻ' là khu vực kho, bãi dùng để làm gì?",
+        "options": {
+            "A": "Lưu giữ hàng hóa tồn đọng chờ xử lý",
+            "B": "Thực hiện các hoạt động thu gom, chia, tách hàng hóa của nhiều chủ hàng",
+            "C": "Chứa nguyên liệu, vật tư nhập khẩu đã thông quan",
+            "D": "Bảo quản hàng hóa quá cảnh"
+        },
+        "answer": "B",
+        "explanation": "Theo khoản 4 Điều 4, 'Địa điểm thu gom hàng lẻ' là khu vực kho, bãi dùng để thực hiện các hoạt động thu gom, chia, tách hàng hóa của nhiều chủ hàng vận chuyển chung công-te-nơ.",
+        "source": "Luật Hải quan 2025, Điều 4, Khoản 4"
+    },
+    {
+        "question": "Địa điểm thu gom hàng lẻ chỉ được sử dụng để lưu giữ hàng hóa của một chủ hàng duy nhất.",
+        "options": {
+            "A": "Đúng",
+            "B": "Sai",
+            "C": "",
+            "D": ""
+        },
+        "answer": "B",
+        "explanation": "Theo khoản 4 Điều 4, địa điểm thu gom hàng lẻ dùng cho hàng hóa của nhiều chủ hàng vận chuyển chung công-te-nơ, không phải một chủ hàng duy nhất.",
+        "source": "Luật Hải quan 2025, Điều 4, Khoản 4"
+    },
+    {
+        "question": "Theo khoản 4 Điều 4, 'Địa điểm thu gom hàng lẻ' dùng để thực hiện các hoạt động thu gom, _______, _______ hàng hóa của nhiều chủ hàng.",
+        "options": {
+            "A": "",
+            "B": "",
+            "C": "chia - tách",
+            "D": ""
+        },
+        "answer": "C",
+        "explanation": "Theo khoản 4 Điều 4, 'Địa điểm thu gom hàng lẻ' dùng để thực hiện các hoạt động thu gom, chia, tách hàng hóa của nhiều chủ hàng vận chuyển chung công-te-nơ.",
+        "source": "Luật Hải quan 2025, Điều 4, Khoản 4"
+    },
+    {
+        "question": "Theo khoản 5 Điều 4, mục đích của 'Giám sát hải quan' là gì?",
+        "options": {
+            "A": "Thu thập thông tin để tính thuế",
+            "B": "Bảo đảm sự nguyên trạng của hàng hóa và sự tuân thủ pháp luật",
+            "C": "Phát hiện hàng hóa giả mạo nhãn hiệu",
+            "D": "Đánh giá chất lượng hàng hóa xuất nhập khẩu"
+        },
+        "answer": "B",
+        "explanation": "Theo khoản 5 Điều 4, 'Giám sát hải quan' là biện pháp nghiệp vụ để bảo đảm sự nguyên trạng của hàng hóa, sự tuân thủ quy định của pháp luật trong việc bảo quản, lưu giữ, xếp dỡ, vận chuyển, sử dụng hàng hóa.",
+        "source": "Luật Hải quan 2025, Điều 4, Khoản 5"
+    },
+    {
+        "question": "Giám sát hải quan chỉ áp dụng đối với hàng hóa, không áp dụng đối với phương tiện vận tải.",
+        "options": {
+            "A": "Đúng",
+            "B": "Sai",
+            "C": "",
+            "D": ""
+        },
+        "answer": "B",
+        "explanation": "Theo khoản 5 Điều 4, 'Giám sát hải quan' áp dụng cho cả hàng hóa và phương tiện vận tải đang thuộc đối tượng quản lý hải quan.",
+        "source": "Luật Hải quan 2025, Điều 4, Khoản 5"
+    },
+    {
+        "question": "Theo khoản 5 Điều 4, 'Giám sát hải quan' nhằm bảo đảm sự _______ của hàng hóa và sự tuân thủ quy định của pháp luật.",
+        "options": {
+            "A": "",
+            "B": "",
+            "C": "nguyên trạng",
+            "D": ""
+        },
+        "answer": "C",
+        "explanation": "Theo khoản 5 Điều 4, 'Giám sát hải quan' nhằm bảo đảm sự nguyên trạng của hàng hóa và sự tuân thủ quy định của pháp luật.",
+        "source": "Luật Hải quan 2025, Điều 4, Khoản 5"
+    },
+    {
+        "question": "Theo khoản 6 Điều 4, 'Hàng hóa' theo định nghĩa của Luật Hải quan KHÔNG bao gồm:",
+        "options": {
+            "A": "Động sản có tên gọi và mã số theo Danh mục hàng hóa XNK Việt Nam",
+            "B": "Hàng hóa được xuất khẩu, nhập khẩu, quá cảnh",
+            "C": "Hàng hóa được lưu giữ trong địa bàn hoạt động hải quan",
+            "D": "Bất động sản nằm trong khu vực cửa khẩu"
+        },
+        "answer": "D",
+        "explanation": "Theo khoản 6 Điều 4, 'Hàng hóa' là động sản, không bao gồm bất động sản.",
+        "source": "Luật Hải quan 2025, Điều 4, Khoản 6"
+    },
+    {
+        "question": "Hàng hóa theo định nghĩa của Luật Hải quan phải có tên gọi và mã số theo Danh mục hàng hóa xuất khẩu, nhập khẩu Việt Nam.",
+        "options": {
+            "A": "Đúng",
+            "B": "Sai",
+            "C": "",
+            "D": ""
+        },
+        "answer": "A",
+        "explanation": "Theo khoản 6 Điều 4, 'Hàng hóa' bao gồm động sản có tên gọi và mã số theo Danh mục hàng hóa xuất khẩu, nhập khẩu Việt Nam.",
+        "source": "Luật Hải quan 2025, Điều 4, Khoản 6"
+    },
+    {
+        "question": "Theo khoản 6 Điều 4, 'Hàng hóa' bao gồm động sản có tên gọi và mã số theo Danh mục hàng hóa xuất khẩu, nhập khẩu _______.",
+        "options": {
+            "A": "",
+            "B": "",
+            "C": "Việt Nam",
+            "D": ""
+        },
+        "answer": "C",
+        "explanation": "Theo khoản 6 Điều 4, 'Hàng hóa' bao gồm động sản có tên gọi và mã số theo Danh mục hàng hóa xuất khẩu, nhập khẩu Việt Nam.",
+        "source": "Luật Hải quan 2025, Điều 4, Khoản 6"
+    },
+    {
+        "question": "Theo khoản 7 Điều 4, 'Hành lý của người xuất cảnh, nhập cảnh' KHÔNG bao gồm:",
+        "options": {
+            "A": "Hành lý mang theo người",
+            "B": "Hành lý gửi trước hoặc gửi sau chuyến đi",
+            "C": "Vật dụng cần thiết cho nhu cầu sinh hoạt",
+            "D": "Hàng hóa kinh doanh mang theo với số lượng lớn"
+        },
+        "answer": "D",
+        "explanation": "Theo khoản 7 Điều 4, 'Hành lý' là vật dụng cần thiết cho nhu cầu sinh hoạt hoặc mục đích chuyến đi, không bao gồm hàng hóa kinh doanh với số lượng lớn.",
+        "source": "Luật Hải quan 2025, Điều 4, Khoản 7"
+    },
+    {
+        "question": "Hành lý gửi trước hoặc gửi sau chuyến đi không được coi là hành lý của người xuất cảnh, nhập cảnh.",
+        "options": {
+            "A": "Đúng",
+            "B": "Sai",
+            "C": "",
+            "D": ""
+        },
+        "answer": "B",
+        "explanation": "Theo khoản 7 Điều 4, 'Hành lý của người xuất cảnh, nhập cảnh' bao gồm cả hành lý mang theo người, hành lý gửi trước hoặc gửi sau chuyến đi.",
+        "source": "Luật Hải quan 2025, Điều 4, Khoản 7"
+    },
+    {
+        "question": "Theo khoản 7 Điều 4, 'Hành lý của người xuất cảnh, nhập cảnh' là vật dụng cần thiết cho nhu cầu sinh hoạt hoặc mục đích _______.",
+        "options": {
+            "A": "",
+            "B": "",
+            "C": "chuyến đi",
+            "D": ""
+        },
+        "answer": "C",
+        "explanation": "Theo khoản 7 Điều 4, 'Hành lý của người xuất cảnh, nhập cảnh' là vật dụng cần thiết cho nhu cầu sinh hoạt hoặc mục đích chuyến đi.",
+        "source": "Luật Hải quan 2025, Điều 4, Khoản 7"
+    },
+    {
+        "question": "Theo khoản 8 Điều 4, 'Hồ sơ hải quan' bao gồm những gì?",
+        "options": {
+            "A": "Chỉ tờ khai hải quan",
+            "B": "Tờ khai hải quan và các chứng từ phải nộp hoặc xuất trình",
+            "C": "Các chứng từ vận tải và thương mại",
+            "D": "Toàn bộ sổ sách kế toán của doanh nghiệp"
+        },
+        "answer": "B",
+        "explanation": "Theo khoản 8 Điều 4, 'Hồ sơ hải quan' gồm tờ khai hải quan, các chứng từ phải nộp hoặc xuất trình cho cơ quan hải quan theo quy định của Luật này.",
+        "source": "Luật Hải quan 2025, Điều 4, Khoản 8"
+    },
+    {
+        "question": "Hồ sơ hải quan chỉ bao gồm tờ khai hải quan, không bao gồm các chứng từ khác.",
+        "options": {
+            "A": "Đúng",
+            "B": "Sai",
+            "C": "",
+            "D": ""
+        },
+        "answer": "B",
+        "explanation": "Theo khoản 8 Điều 4, 'Hồ sơ hải quan' bao gồm cả tờ khai hải quan và các chứng từ phải nộp hoặc xuất trình.",
+        "source": "Luật Hải quan 2025, Điều 4, Khoản 8"
+    },
+    {
+        "question": "Theo khoản 8 Điều 4, 'Hồ sơ hải quan' gồm tờ khai hải quan và các chứng từ phải nộp hoặc _______ cho cơ quan hải quan.",
+        "options": {
+            "A": "",
+            "B": "",
+            "C": "xuất trình",
+            "D": ""
+        },
+        "answer": "C",
+        "explanation": "Theo khoản 8 Điều 4, 'Hồ sơ hải quan' gồm tờ khai hải quan, các chứng từ phải nộp hoặc xuất trình cho cơ quan hải quan.",
+        "source": "Luật Hải quan 2025, Điều 4, Khoản 8"
+    },
+    {
+        "question": "Theo khoản 9 Điều 4, 'Kho bảo thuế' dùng để chứa loại hàng hóa nào?",
+        "options": {
+            "A": "Hàng hóa xuất khẩu chưa làm thủ tục hải quan",
+            "B": "Nguyên liệu, vật tư nhập khẩu đã thông quan nhưng chưa nộp thuế",
+            "C": "Hàng hóa tạm nhập khẩu chờ tái xuất",
+            "D": "Hàng hóa quá cảnh qua lãnh thổ Việt Nam"
+        },
+        "answer": "B",
+        "explanation": "Theo khoản 9 Điều 4, 'Kho bảo thuế' là kho dùng để chứa nguyên liệu, vật tư nhập khẩu đã được thông quan nhưng chưa nộp thuế để sản xuất hàng hóa xuất khẩu.",
+        "source": "Luật Hải quan 2025, Điều 4, Khoản 9"
+    },
+    {
+        "question": "Kho bảo thuế có thể chứa hàng hóa nhập khẩu chưa được thông quan.",
+        "options": {
+            "A": "Đúng",
+            "B": "Sai",
+            "C": "",
+            "D": ""
+        },
+        "answer": "B",
+        "explanation": "Theo khoản 9 Điều 4, 'Kho bảo thuế' chỉ chứa nguyên liệu, vật tư nhập khẩu đã được thông quan nhưng chưa nộp thuế.",
+        "source": "Luật Hải quan 2025, Điều 4, Khoản 9"
+    },
+    {
+        "question": "Theo khoản 9 Điều 4, 'Kho bảo thuế' chứa nguyên liệu, vật tư nhập khẩu đã được _______ nhưng chưa nộp thuế.",
+        "options": {
+            "A": "",
+            "B": "",
+            "C": "thông quan",
+            "D": ""
+        },
+        "answer": "C",
+        "explanation": "Theo khoản 9 Điều 4, 'Kho bảo thuế' chứa nguyên liệu, vật tư nhập khẩu đã được thông quan nhưng chưa nộp thuế.",
+        "source": "Luật Hải quan 2025, Điều 4, Khoản 9"
+    },
+    {
+        "question": "Theo khoản 10 Điều 4, 'Kho ngoại quan' KHÔNG được dùng để lưu giữ loại hàng hóa nào?",
+        "options": {
+            "A": "Hàng hóa đã làm thủ tục hải quan được gửi để chờ xuất khẩu",
+            "B": "Hàng hóa từ nước ngoài đưa vào gửi để chờ xuất khẩu ra nước ngoài",
+            "C": "Hàng hóa từ nước ngoài đưa vào gửi để chờ nhập khẩu vào Việt Nam",
+            "D": "Hàng hóa nội địa chưa làm thủ tục xuất khẩu"
+        },
+        "answer": "D",
+        "explanation": "Theo khoản 10 Điều 4, 'Kho ngoại quan' chỉ lưu giữ hàng hóa đã làm thủ tục hải quan chờ xuất khẩu hoặc hàng hóa từ nước ngoài đưa vào gửi, không lưu giữ hàng hóa nội địa chưa làm thủ tục.",
+        "source": "Luật Hải quan 2025, Điều 4, Khoản 10"
+    },
+    {
+        "question": "Kho ngoại quan có thể lưu giữ hàng hóa từ nước ngoài đưa vào để chờ nhập khẩu vào Việt Nam.",
+        "options": {
+            "A": "Đúng",
+            "B": "Sai",
+            "C": "",
+            "D": ""
+        },
+        "answer": "A",
+        "explanation": "Theo khoản 10 Điều 4, 'Kho ngoại quan' được lưu giữ hàng hóa từ nước ngoài đưa vào gửi để chờ xuất khẩu ra nước ngoài hoặc nhập khẩu vào Việt Nam.",
+        "source": "Luật Hải quan 2025, Điều 4, Khoản 10"
+    },
+    {
+        "question": "Theo khoản 10 Điều 4, 'Kho ngoại quan' lưu giữ hàng hóa đã làm thủ tục hải quan được gửi để chờ _______.",
+        "options": {
+            "A": "",
+            "B": "",
+            "C": "xuất khẩu",
+            "D": ""
+        },
+        "answer": "C",
+        "explanation": "Theo khoản 10 Điều 4, 'Kho ngoại quan' lưu giữ hàng hóa đã làm thủ tục hải quan được gửi để chờ xuất khẩu.",
+        "source": "Luật Hải quan 2025, Điều 4, Khoản 10"
+    },
+    {
+        "question": "Theo khoản 11 Điều 4, 'Kiểm soát hải quan' KHÔNG bao gồm biện pháp nào sau đây?",
+        "options": {
+            "A": "Tuần tra, điều tra, xác minh",
+            "B": "Các biện pháp nghiệp vụ khác",
+            "C": "Kiểm tra chất lượng hàng hóa",
+            "D": "Phòng, chống buôn lậu, vận chuyển trái phép"
+        },
+        "answer": "C",
+        "explanation": "Theo khoản 11 Điều 4, 'Kiểm soát hải quan' bao gồm tuần tra, điều tra, xác minh hoặc biện pháp nghiệp vụ khác để phòng, chống buôn lậu, vận chuyển trái phép, không bao gồm kiểm tra chất lượng hàng hóa.",
+        "source": "Luật Hải quan 2025, Điều 4, Khoản 11"
+    },
+    {
+        "question": "Kiểm soát hải quan chỉ áp dụng các biện pháp tuần tra, không bao gồm điều tra, xác minh.",
+        "options": {
+            "A": "Đúng",
+            "B": "Sai",
+            "C": "",
+            "D": ""
+        },
+        "answer": "B",
+        "explanation": "Theo khoản 11 Điều 4, 'Kiểm soát hải quan' bao gồm cả tuần tra, điều tra, xác minh hoặc biện pháp nghiệp vụ khác.",
+        "source": "Luật Hải quan 2025, Điều 4, Khoản 11"
+    },
+    {
+        "question": "Theo khoản 11 Điều 4, 'Kiểm soát hải quan' là biện pháp tuần tra, điều tra, _______ hoặc biện pháp nghiệp vụ khác.",
+        "options": {
+            "A": "",
+            "B": "",
+            "C": "xác minh",
+            "D": ""
+        },
+        "answer": "C",
+        "explanation": "Theo khoản 11 Điều 4, 'Kiểm soát hải quan' là biện pháp tuần tra, điều tra, xác minh hoặc biện pháp nghiệp vụ khác.",
+        "source": "Luật Hải quan 2025, Điều 4, Khoản 11"
     }
 ]
